@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=TRANS_IMP_OUT Pin=TP2-2
+Removed Pin From Net: NetName=LPF_OUT Pin=TP2-3
+Added Pin To Net: NetName=GND Pin=TP2-2
+Added Pin To Net: NetName=TRANS_IMP_OUT Pin=TP2-3

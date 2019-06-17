@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=FPC_MCU1 NewDesignator=FPC_PWR
+Change Component Designator: OldDesignator=FPC_PWR1 NewDesignator=FPC_MCU
+Added Member To Class: ClassName=Sheet1 Member=Component FPC_PWR 502250-2391
+Added Room: Name=Sheet1

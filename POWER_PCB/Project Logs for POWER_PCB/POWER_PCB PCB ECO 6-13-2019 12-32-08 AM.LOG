@@ -1,0 +1,79 @@
+Removed Pin From Net: NetName=VBAT Pin=FPC_CONN_PWR?-1
+Removed Pin From Net: NetName=TP_NOSE_GND Pin=FPC_CONN_PWR?-2
+Removed Pin From Net: NetName=VBAT Pin=FPC_CONN_PWR?-3
+Removed Pin From Net: NetName=TP_NOSE Pin=FPC_CONN_PWR?-4
+Removed Pin From Net: NetName=LH_DIODE_ARRAY Pin=FPC_CONN_PWR?-5
+Removed Pin From Net: NetName=I2C1_SCL Pin=FPC_CONN_PWR?-6
+Removed Pin From Net: NetName=LED_SS Pin=FPC_CONN_PWR?-7
+Removed Pin From Net: NetName=I2C1_SDA Pin=FPC_CONN_PWR?-8
+Removed Pin From Net: NetName=SPI_SCK Pin=FPC_CONN_PWR?-9
+Removed Pin From Net: NetName=BLINK_SIG Pin=FPC_CONN_PWR?-10
+Removed Pin From Net: NetName=SPI_SDIO Pin=FPC_CONN_PWR?-11
+Removed Pin From Net: NetName=PA0 Pin=FPC_CONN_PWR?-12
+Removed Pin From Net: NetName=LED_PWM Pin=FPC_CONN_PWR?-13
+Removed Pin From Net: NetName=ANALOG_EXP_CONN Pin=FPC_CONN_PWR?-14
+Removed Pin From Net: NetName=BLINK_PWM Pin=FPC_CONN_PWR?-15
+Removed Pin From Net: NetName=5V Pin=FPC_CONN_PWR?-16
+Removed Pin From Net: NetName=GND Pin=FPC_CONN_PWR?-17
+Removed Pin From Net: NetName=5V Pin=FPC_CONN_PWR?-18
+Removed Pin From Net: NetName=GND Pin=FPC_CONN_PWR?-19
+Removed Pin From Net: NetName=3.3V Pin=FPC_CONN_PWR?-20
+Removed Pin From Net: NetName=GND Pin=FPC_CONN_PWR?-21
+Removed Pin From Net: NetName=3.3V Pin=FPC_CONN_PWR?-22
+Removed Pin From Net: NetName=GND Pin=FPC_CONN_PWR?-23
+Removed Pin From Net: NetName=3.3V Pin=H*?-1
+Removed Pin From Net: NetName=I2C1_SCL Pin=H*?-2
+Removed Pin From Net: NetName=ANALOG_EXP_CONN Pin=H*?-3
+Removed Pin From Net: NetName=I2C1_SDA Pin=H*?-4
+Removed Pin From Net: NetName=GND Pin=H*?-5
+Removed Member From Class: ClassName=Sch_pwr Member=FPC_CONN_PWR?
+Removed Member From Class: ClassName=Sch_pwr Member=H*?
+Change Component Designator: OldDesignator=C17 NewDesignator=C1
+Change Component Designator: OldDesignator=C18 NewDesignator=C2
+Change Component Designator: OldDesignator=D? NewDesignator=D1
+Change Component Designator: OldDesignator=IC3 NewDesignator=IC1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=R18 NewDesignator=R1
+Change Component Designator: OldDesignator=R19 NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=S? NewDesignator=S1
+Change Component Designator: OldDesignator=TP? NewDesignator=TP1
+Added Component: Designator=FPC_PWR1(5022502391)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.molex.com/pdm_docs/sd/5022501791_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "502250-2391"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "538-502250-2391"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=538-502250-2391"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=FPC_PWR1-1
+Added Pin To Net: NetName=3.3V Pin=FPC_PWR1-2
+Added Pin To Net: NetName=GND Pin=FPC_PWR1-3
+Added Pin To Net: NetName=3.3V Pin=FPC_PWR1-4
+Added Pin To Net: NetName=GND Pin=FPC_PWR1-5
+Added Pin To Net: NetName=5V Pin=FPC_PWR1-6
+Added Pin To Net: NetName=GND Pin=FPC_PWR1-7
+Added Pin To Net: NetName=5V Pin=FPC_PWR1-8
+Added Pin To Net: NetName=BLINK_PWM Pin=FPC_PWR1-9
+Added Pin To Net: NetName=ANALOG_EXP_CONN Pin=FPC_PWR1-10
+Added Pin To Net: NetName=LED_PWM Pin=FPC_PWR1-11
+Added Pin To Net: NetName=PA0 Pin=FPC_PWR1-12
+Added Pin To Net: NetName=SPI_SDIO Pin=FPC_PWR1-13
+Added Pin To Net: NetName=BLINK_SIG Pin=FPC_PWR1-14
+Added Pin To Net: NetName=SPI_SCK Pin=FPC_PWR1-15
+Added Pin To Net: NetName=I2C1_SDA Pin=FPC_PWR1-16
+Added Pin To Net: NetName=LED_SS Pin=FPC_PWR1-17
+Added Pin To Net: NetName=I2C1_SCL Pin=FPC_PWR1-18
+Added Pin To Net: NetName=LH_DIODE_ARRAY Pin=FPC_PWR1-19
+Added Pin To Net: NetName=TP_NOSE Pin=FPC_PWR1-20
+Added Pin To Net: NetName=VBAT Pin=FPC_PWR1-21
+Added Pin To Net: NetName=TP_NOSE_GND Pin=FPC_PWR1-22
+Added Pin To Net: NetName=VBAT Pin=FPC_PWR1-23
+Change Net Name : Old Net Name=NetIC3_5 New Net Name=NetIC1_5
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ1_1
+Change Net Name : Old Net Name=NetQ?_2 New Net Name=NetQ1_2
+Added Member To Class: ClassName=Sch_pwr Member=Component FPC_PWR1 502250-2391
+Added Room: Name=Sch_pwr

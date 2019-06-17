@@ -1,0 +1,23 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [ProjectAttendance.PrjPcb]
+   Generated File[layout.GTO]
+   Generated File[layout.GTP]
+   Generated File[layout.GTS]
+   Generated File[layout.GTL]
+   Generated File[layout.GBL]
+   Generated File[layout.GBS]
+   Generated File[layout.GBP]
+   Generated File[layout.GBO]
+   Generated File[layout.GM2]
+   Generated File[layout.GKO]
+   Generated File[layout.GD1]
+   Generated File[layout.RUL]
+   Generated File[layout.EXTREP]
+   Generated File[layout.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 5:41:47 PM On 5/15/2019
