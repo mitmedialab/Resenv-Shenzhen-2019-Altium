@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=FPC_MCU1 NewDesignator=FPC_MCU
+Added Component: Designator=POGO_PIN1(0923-0-15-20-78-14-11-0)
+Add component. Clean all parameters for all variants
+Added Component: Designator=POGO_PIN2(0923-0-15-20-78-14-11-0)
+Add component. Clean all parameters for all variants
+Added Component: Designator=POGO_PIN3(0923-0-15-20-78-14-11-0)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetPOGO_PIN1_1 Pin=POGO_PIN1-1
+Added Pin To Net: NetName=NetPOGO_PIN2_1 Pin=POGO_PIN2-1
+Added Pin To Net: NetName=NetPOGO_PIN3_1 Pin=POGO_PIN3-1
+Added Member To Class: ClassName=Sch_external_connectors Member=Component POGO_PIN1 0923-0-15-20-78-14-11-0
+Added Member To Class: ClassName=Sch_external_connectors Member=Component POGO_PIN2 0923-0-15-20-78-14-11-0
+Added Member To Class: ClassName=Sch_external_connectors Member=Component POGO_PIN3 0923-0-15-20-78-14-11-0
