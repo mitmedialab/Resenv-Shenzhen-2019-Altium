@@ -1,0 +1,5 @@
+Added Component: Designator=SB4(JUMPER_SMD)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=USB_DN_PROT Pin=SB4-1
+Added Pin To Net: NetName=NetJ1_4 Pin=SB4-2
+Added Member To Class: ClassName=Sch_external_connectors Member=Component SB4 SOLDER_JUMPER
