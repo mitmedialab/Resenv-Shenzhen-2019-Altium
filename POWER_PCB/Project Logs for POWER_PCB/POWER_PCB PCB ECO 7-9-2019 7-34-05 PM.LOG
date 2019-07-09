@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=FPC_PWR-1
+Removed Pin From Net: NetName=GND Pin=FPC_PWR-3
+Removed Pin From Net: NetName=GND Pin=FPC_PWR-5
+Removed Pin From Net: NetName=5V Pin=FPC_PWR-6
+Removed Pin From Net: NetName=5V Pin=FPC_PWR-8
+Removed Pin From Net: NetName=ANALOG_EXP_CONN Pin=FPC_PWR-10
+Removed Pin From Net: NetName=PA0 Pin=FPC_PWR-12
+Added Pin To Net: NetName=ANALOG_EXP_CONN Pin=FPC_PWR-6
+Added Pin To Net: NetName=5V Pin=FPC_PWR-10
+Added Pin To Net: NetName=5V Pin=FPC_PWR-12
+Added Pin To Net: NetName=GND Pin=FPC_PWR-13
+Added Pin To Net: NetName=PA0 Pin=FPC_PWR-14
+Added Pin To Net: NetName=GND Pin=FPC_PWR-20
+Added Pin To Net: NetName=GND Pin=FPC_PWR-22
+Change Net Name : Old Net Name=BLINK_PWM New Net Name=SPI_SCK
+Change Net Name : Old Net Name=LED_PWM New Net Name=SPI_SDIO
+Added Room: Name=Sch_pwr
