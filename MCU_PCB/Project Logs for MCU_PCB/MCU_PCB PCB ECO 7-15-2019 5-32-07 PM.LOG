@@ -1,0 +1,45 @@
+Added Component: Designator=U1(ZTP-135SR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70282698"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/amphenol-advanced-sensors-ztp-135sr/70282698/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.amphenol-sensors.com/en/component/edocman/370-thermopile-ir-sensor-applications/download?Itemid=7967"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Amphenol Advanced Sensors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ZTP-135SR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "527-ZTP-135SR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=527-ZTP-135SR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CMOUT Pin=U1-2
+Added Pin To Net: NetName=NetC29_2 Pin=U1-4
+Added Member To Class: ClassName=Sch_sensors Member=Component D2 VBPW34FASR
+Added Member To Class: ClassName=Sch_pwr Member=Component IC3 LK112M33TR
+Added Member To Class: ClassName=Sch_sensors Member=Component IC6 LMP91051MT_NOPB
+Added Member To Class: ClassName=Sch_external_connectors Member=Component POGO_PIN1 0923-0-15-20-78-14-11-0
+Added Member To Class: ClassName=Sch_external_connectors Member=Component POGO_PIN2 0923-0-15-20-78-14-11-0
+Added Member To Class: ClassName=Sch_external_connectors Member=Component POGO_PIN3 0923-0-15-20-78-14-11-0
+Added Member To Class: ClassName=Sch_pwr Member=Component Q1 NTS4101PT1G
+Added Member To Class: ClassName=Sch_pwr Member=Component Q2 BSS138LT3G
+Added Member To Class: ClassName=Sch_external_connectors Member=Component R1 1k
+Added Member To Class: ClassName=Sch_external_connectors Member=Component R2 1k
+Added Member To Class: ClassName=Sch_external_connectors Member=Component R3 1k
+Added Member To Class: ClassName=Sch_mcu Member=Component R5 10k
+Added Member To Class: ClassName=Sch_mcu Member=Component R6 10k
+Added Member To Class: ClassName=Sch_mcu Member=Component R7 10K
+Added Member To Class: ClassName=Sch_pwr Member=Component R11 1M
+Added Member To Class: ClassName=Sch_pwr Member=Component R12 10k
+Added Member To Class: ClassName=Sch_pwr Member=Component R13 32.4k
+Added Member To Class: ClassName=Sch_sensors Member=Component R14 47k
+Added Member To Class: ClassName=Sch_sensors Member=Component R15 100k
+Added Member To Class: ClassName=Sch_sensors Member=Component R16 47k
+Added Member To Class: ClassName=Sch_sensors Member=Component R17 3.3k
+Added Member To Class: ClassName=Sch_sensors Member=Component R19 160k
+Added Member To Class: ClassName=Sch_sensors Member=Component R20 160k
+Added Member To Class: ClassName=Sch_sensors Member=Component R21 1k
+Added Member To Class: ClassName=Sch_pwr Member=Component R? 80.6k
+Added Member To Class: ClassName=Sch_sensors Member=Component U1 ZTP-135SR
+Added Member To Class: ClassName=Sch_mcu Member=Component Y1 NX3215SA-32.768K-STD-MUA-8
+Added Member To Class: ClassName=Sch_mcu Member=Component Y2 XRCGB32M000F1H01R0
+Added Room: Name=Sch_external_connectors
+Added Room: Name=Sch_mcu
+Added Room: Name=Sch_pwr
+Added Room: Name=Sch_sensors

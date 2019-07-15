@@ -1,0 +1,103 @@
+Removed Pin From Net: NetName=3.3V Pin=C32-1
+Removed Pin From Net: NetName=GND Pin=C32-2
+Removed Pin From Net: NetName=3.3V Pin=C33-1
+Removed Pin From Net: NetName=GND Pin=C33-2
+Removed Pin From Net: NetName=GND Pin=C34-2
+Removed Pin From Net: NetName=GND Pin=C35-2
+Removed Pin From Net: NetName=GND Pin=C36-2
+Removed Pin From Net: NetName=3.3V Pin=R4-1
+Removed Pin From Net: NetName=3.3V Pin=R10-2
+Removed Pin From Net: NetName=GND Pin=R22-2
+Added Component: Designator=IC3(SOT95P280X145-5N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70407288"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "http://www.alliedelec.com/stmicroelectronics-lk112m33tr/70407288/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00002190.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LK112M33TR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-LK112M33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=511-LK112M33"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6869013P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6869013P"; VariantName = "[No Variations]"
+Added Component: Designator=IC6(SOP65P640X120-14N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/lmp91051.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LMP91051MT/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-LMP91051MT/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=595-LMP91051MT%2FNOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Y1(NX3215SA)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ndk.com/images/products/catalog/c_NX3215SA-STD-MUA-14_e.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "NDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NX3215SA-32.768K-STD-MUA-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "344-NX3215SA32768K8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=344-NX3215SA32768K8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Y2(XRCGB32M000F1H01R0)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.murata.com/en-eu/products/productdetail?partno=XRCGB32M000F1H01R0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "XRCGB32M000F1H01R0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-XRCGB32M000F1H01R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=81-XRCGB32M000F1H01R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VBAT Pin=IC3-1
+Added Pin To Net: NetName=GND Pin=IC3-2
+Added Pin To Net: NetName=NetC18_1 Pin=IC3-3
+Added Pin To Net: NetName=3.3V Pin=IC3-4
+Added Pin To Net: NetName=VBAT Pin=IC3-5
+Added Pin To Net: NetName=TP_NOSE Pin=IC6-1
+Added Pin To Net: NetName=NetC29_2 Pin=IC6-2
+Added Pin To Net: NetName=CMOUT Pin=IC6-3
+Added Pin To Net: NetName=AFE_A0 Pin=IC6-4
+Added Pin To Net: NetName=AFE_A1 Pin=IC6-5
+Added Pin To Net: NetName=GND Pin=IC6-6
+Added Pin To Net: NetName=NetIC6_9 Pin=IC6-9
+Added Pin To Net: NetName=TP_SS Pin=IC6-10
+Added Pin To Net: NetName=SPI_SCK Pin=IC6-11
+Added Pin To Net: NetName=SPI_SDIO Pin=IC6-12
+Added Pin To Net: NetName=3.3V Pin=IC6-13
+Added Pin To Net: NetName=3.3V Pin=IC6-14
+Added Pin To Net: NetName=RCC_OSC32_IN Pin=Y1-1
+Added Pin To Net: NetName=RCC_OSC32_OUT Pin=Y1-2
+Added Pin To Net: NetName=RCC_OSC_OUT Pin=Y2-1
+Added Pin To Net: NetName=RCC_OSC_IN Pin=Y2-3
+Added Member To Class: ClassName=Sch_sensors Member=Component D2 VBPW34FASR
+Added Member To Class: ClassName=Sch_pwr Member=Component IC3 LK112M33TR
+Added Member To Class: ClassName=Sch_sensors Member=Component IC6 LMP91051MT_NOPB
+Added Member To Class: ClassName=Sch_external_connectors Member=Component POGO_PIN1 0923-0-15-20-78-14-11-0
+Added Member To Class: ClassName=Sch_external_connectors Member=Component POGO_PIN2 0923-0-15-20-78-14-11-0
+Added Member To Class: ClassName=Sch_external_connectors Member=Component POGO_PIN3 0923-0-15-20-78-14-11-0
+Added Member To Class: ClassName=Sch_pwr Member=Component Q1 NTS4101PT1G
+Added Member To Class: ClassName=Sch_pwr Member=Component Q2 BSS138LT3G
+Added Member To Class: ClassName=Sch_external_connectors Member=Component R1 1k
+Added Member To Class: ClassName=Sch_external_connectors Member=Component R2 1k
+Added Member To Class: ClassName=Sch_external_connectors Member=Component R3 1k
+Added Member To Class: ClassName=Sch_mcu Member=Component R5 10k
+Added Member To Class: ClassName=Sch_mcu Member=Component R6 10k
+Added Member To Class: ClassName=Sch_mcu Member=Component R7 10K
+Added Member To Class: ClassName=Sch_pwr Member=Component R11 1M
+Added Member To Class: ClassName=Sch_pwr Member=Component R12 10k
+Added Member To Class: ClassName=Sch_pwr Member=Component R13 32.4k
+Added Member To Class: ClassName=Sch_sensors Member=Component R14 47k
+Added Member To Class: ClassName=Sch_sensors Member=Component R15 100k
+Added Member To Class: ClassName=Sch_sensors Member=Component R16 47k
+Added Member To Class: ClassName=Sch_sensors Member=Component R17 3.3k
+Added Member To Class: ClassName=Sch_sensors Member=Component R19 160k
+Added Member To Class: ClassName=Sch_sensors Member=Component R20 160k
+Added Member To Class: ClassName=Sch_sensors Member=Component R21 1k
+Added Member To Class: ClassName=Sch_pwr Member=Component R? 80.6k
+Added Member To Class: ClassName=Sch_mcu Member=Component Y1 NX3215SA-32.768K-STD-MUA-8
+Added Member To Class: ClassName=Sch_mcu Member=Component Y2 XRCGB32M000F1H01R0
+Added Room: Name=Sch_external_connectors
+Added Room: Name=Sch_mcu
+Added Room: Name=Sch_pwr
+Added Room: Name=Sch_sensors
