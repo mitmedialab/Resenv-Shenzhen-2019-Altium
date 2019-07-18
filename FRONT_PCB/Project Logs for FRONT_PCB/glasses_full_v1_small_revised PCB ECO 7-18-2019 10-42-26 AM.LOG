@@ -1,0 +1,345 @@
+Removed Pin From Net: NetName=GND Pin=D1-2
+Removed Pin From Net: NetName=GND Pin=FPC_MCU-1
+Removed Pin From Net: NetName=3.3V Pin=FPC_MCU-2
+Removed Pin From Net: NetName=3.3V Pin=FPC_MCU-4
+Removed Pin From Net: NetName=GND Pin=FPC_MCU-5
+Removed Pin From Net: NetName=5V Pin=FPC_MCU-6
+Removed Pin From Net: NetName=GND Pin=FPC_MCU-7
+Removed Pin From Net: NetName=5V Pin=FPC_MCU-8
+Removed Pin From Net: NetName=BLINK_PWM Pin=FPC_MCU-9
+Removed Pin From Net: NetName=LED_PWM Pin=FPC_MCU-11
+Removed Pin From Net: NetName=SPI_SDIO Pin=FPC_MCU-13
+Removed Pin From Net: NetName=BLINK_SIG Pin=FPC_MCU-14
+Removed Pin From Net: NetName=SPI_SCK Pin=FPC_MCU-15
+Removed Pin From Net: NetName=I2C1_SDA Pin=FPC_MCU-16
+Removed Pin From Net: NetName=LED_SS Pin=FPC_MCU-17
+Removed Pin From Net: NetName=LH_DIODE_ARRAY Pin=FPC_MCU-19
+Removed Pin From Net: NetName=TP_NOSE Pin=FPC_MCU-20
+Removed Pin From Net: NetName=TP_NOSE_GND Pin=FPC_MCU-22
+Removed Pin From Net: NetName=TP_NOSE_GND Pin=FPC_PWR-2
+Removed Pin From Net: NetName=TP_NOSE Pin=FPC_PWR-4
+Removed Pin From Net: NetName=LH_DIODE_ARRAY Pin=FPC_PWR-5
+Removed Pin From Net: NetName=LED_SS Pin=FPC_PWR-7
+Removed Pin From Net: NetName=I2C1_SDA Pin=FPC_PWR-8
+Removed Pin From Net: NetName=BLINK_SIG Pin=FPC_PWR-10
+Removed Pin From Net: NetName=LED_PWM Pin=FPC_PWR-13
+Removed Pin From Net: NetName=BLINK_PWM Pin=FPC_PWR-15
+Removed Pin From Net: NetName=5V Pin=FPC_PWR-16
+Removed Pin From Net: NetName=GND Pin=FPC_PWR-17
+Removed Pin From Net: NetName=5V Pin=FPC_PWR-18
+Removed Pin From Net: NetName=GND Pin=FPC_PWR-19
+Removed Pin From Net: NetName=3.3V Pin=FPC_PWR-20
+Removed Pin From Net: NetName=3.3V Pin=FPC_PWR-22
+Removed Pin From Net: NetName=GND Pin=P1-6
+Removed Pin From Net: NetName=GND Pin=R10-2
+Removed Pin From Net: NetName=GND Pin=U2-4
+Change component parameters: Designator = "R10"; Footprint = "0402R"; UniqueID = "\UMHAOJRE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "P1"; Footprint = "HEADER_PROGRAM_STLINK_SWD"; UniqueID = "\XUXKNJIJ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1"; Footprint = "VBPW34FAS"; UniqueID = "\MNZQUKIP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.vishay.com/docs/81127/vbpw34fa.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "VBPW34FASR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "782-VBPW34FASR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=782-VBPW34FASR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "7689401"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/7689401"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U3"; Footprint = "ZTP-135SR"; UniqueID = "\IXSOMEAK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Allied_Number"; Value = "70282698"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/amphenol-advanced-sensors-ztp-135sr/70282698/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.amphenol-sensors.com/en/component/edocman/370-thermopile-ir-sensor-applications/download?Itemid=7967"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Amphenol Advanced Sensors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ZTP-135SR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "527-ZTP-135SR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=527-ZTP-135SR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "FPC_MCU"; Footprint = "5022502391"; UniqueID = "\PRFIJULV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.molex.com/pdm_docs/sd/5022501791_sd.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.85mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "502250-2391"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "538-502250-2391"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=538-502250-2391"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Change component parameters: Designator = "FPC_PWR"; Footprint = "5022502391"; UniqueID = "\HUOOLJIA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.molex.com/pdm_docs/sd/5022501791_sd.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.85mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "502250-2391"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "538-502250-2391"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=538-502250-2391"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Added Component: Designator=C1(0402C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "@ qty"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Applications"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c03e.ashx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "490-13409-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Murata%20Renders/ZRB-SERIES-0402.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM155C71A105KE38D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "7240"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GCM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0.12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(0402C)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "@ qty"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Applications"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c03e.ashx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "490-13409-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Renders/Murata%20Renders/ZRB-SERIES-0402.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Spacing"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Style"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount, MLCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM155C71A105KE38D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "7240"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "GCM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "X7S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0.12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "10V"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR1X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R1(0402R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R2(0402R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R3(0402R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4(0402R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R5(0402R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R6(0402R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R7(0402R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R8(0402R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R9(0402R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R11(0402R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R12(0402R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R13(0402R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R14(0402R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R15(0402R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R16(0402R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R17(0402R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=SB1(SMD_JUMPER)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U1(QLS6B-FKW)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U6(74VHC595 - QFN127P600-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "74HC165"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "VFQFN-16 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/74HC165/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U7(74VHC595 - QFN127P600-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "74HC165"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "VFQFN-16 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/74HC165/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=TP_NOSE Pin=FPC_MCU-2
+Added Pin To Net: NetName=TP_NOSE_GND Pin=FPC_MCU-4
+Added Pin To Net: NetName=LH_DIODE_ARRAY Pin=FPC_MCU-5
+Added Pin To Net: NetName=LED_SS Pin=FPC_MCU-7
+Added Pin To Net: NetName=I2C1_SDA Pin=FPC_MCU-8
+Added Pin To Net: NetName=5V Pin=FPC_MCU-12
+Added Pin To Net: NetName=SPI_SCK Pin=FPC_MCU-13
+Added Pin To Net: NetName=5V Pin=FPC_MCU-14
+Added Pin To Net: NetName=SPI_SDIO Pin=FPC_MCU-15
+Added Pin To Net: NetName=BLINK_SIG Pin=FPC_MCU-16
+Added Pin To Net: NetName=3.3V Pin=FPC_MCU-20
+Added Pin To Net: NetName=BLINK_PWM Pin=FPC_MCU-21
+Added Pin To Net: NetName=3.3V Pin=FPC_MCU-22
+Added Pin To Net: NetName=3.3V Pin=FPC_PWR-2
+Added Pin To Net: NetName=3.3V Pin=FPC_PWR-4
+Added Pin To Net: NetName=5V Pin=FPC_PWR-10
+Added Pin To Net: NetName=5V Pin=FPC_PWR-12
+Added Pin To Net: NetName=I2C1_SDA Pin=FPC_PWR-16
+Added Pin To Net: NetName=LH_DIODE_ARRAY Pin=FPC_PWR-19
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=3.3V Pin=P2-1
+Added Pin To Net: NetName=BLINK_PWM Pin=P2-2
+Added Pin To Net: NetName=BLINK_SIG Pin=P2-3
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=3.3V Pin=R5-2
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR8_1 Pin=R8-1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR12_1 Pin=R12-1
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Pin To Net: NetName=NetR14_1 Pin=R14-1
+Added Pin To Net: NetName=NetR15_2 Pin=R15-2
+Added Pin To Net: NetName=NetR16_2 Pin=R16-2
+Added Pin To Net: NetName=NetR17_2 Pin=R17-2
+Added Pin To Net: NetName=BLINK_SIG Pin=SB1-1
+Added Pin To Net: NetName=NetR5_1 Pin=SB1-2
+Added Pin To Net: NetName=LED_5_B Pin=U1-1
+Added Pin To Net: NetName=NetR1_1 Pin=U1-2
+Added Pin To Net: NetName=LED_5_R Pin=U1-3
+Added Pin To Net: NetName=NetR2_1 Pin=U1-4
+Added Pin To Net: NetName=LED_5_G Pin=U1-5
+Added Pin To Net: NetName=NetR3_1 Pin=U1-6
+Added Pin To Net: NetName=LED_1_G Pin=U6-1
+Added Pin To Net: NetName=LED_1_B Pin=U6-2
+Added Pin To Net: NetName=LED_2_R Pin=U6-3
+Added Pin To Net: NetName=LED_2_G Pin=U6-4
+Added Pin To Net: NetName=LED_2_B Pin=U6-5
+Added Pin To Net: NetName=LED_3_R Pin=U6-6
+Added Pin To Net: NetName=LED_3_G Pin=U6-7
+Added Pin To Net: NetName=NetU6_9 Pin=U6-9
+Added Pin To Net: NetName=GND Pin=U6-10
+Added Pin To Net: NetName=SPI_SCK Pin=U6-11
+Added Pin To Net: NetName=LED_SS Pin=U6-12
+Added Pin To Net: NetName=LED_PWM Pin=U6-13
+Added Pin To Net: NetName=SPI_SDIO Pin=U6-14
+Added Pin To Net: NetName=LED_1_R Pin=U6-15
+Added Pin To Net: NetName=GND Pin=U6-16
+Added Pin To Net: NetName=LED_4_R Pin=U7-1
+Added Pin To Net: NetName=LED_4_G Pin=U7-2
+Added Pin To Net: NetName=LED_4_B Pin=U7-3
+Added Pin To Net: NetName=LED_5_R Pin=U7-4
+Added Pin To Net: NetName=LED_5_G Pin=U7-5
+Added Pin To Net: NetName=LED_5_B Pin=U7-6
+Added Pin To Net: NetName=GND Pin=U7-10
+Added Pin To Net: NetName=SPI_SCK Pin=U7-11
+Added Pin To Net: NetName=LED_SS Pin=U7-12
+Added Pin To Net: NetName=LED_PWM Pin=U7-13
+Added Pin To Net: NetName=NetU6_9 Pin=U7-14
+Added Pin To Net: NetName=LED_3_B Pin=U7-15
+Added Pin To Net: NetName=GND Pin=U7-16
+Change Net Name : Old Net Name=ANALOG_EXP_CONN New Net Name=PA0
+Change Net Name : Old Net Name=GND New Net Name=VBAT
+Change Net Name : Old Net Name=I2C1_SCL New Net Name=ANALOG_EXP_CONN
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=FPC_MCU-11
+Added Pin To Net: NetName=GND Pin=FPC_MCU-17
+Added Pin To Net: NetName=GND Pin=FPC_MCU-23
+Added Pin To Net: NetName=GND Pin=FPC_PWR-7
+Added Pin To Net: NetName=GND Pin=FPC_PWR-13
+Added Pin To Net: NetName=GND Pin=FPC_PWR-20
+Added Pin To Net: NetName=GND Pin=FPC_PWR-22
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Pin To Net: NetName=GND Pin=P2-4
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R3-2
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R11-2
+Added Pin To Net: NetName=GND Pin=R12-2
+Added Pin To Net: NetName=GND Pin=R13-2
+Added Pin To Net: NetName=GND Pin=R14-2
+Added Pin To Net: NetName=GND Pin=R15-1
+Added Pin To Net: NetName=GND Pin=R16-1
+Added Pin To Net: NetName=GND Pin=R17-1
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U6-8
+Added Pin To Net: NetName=GND Pin=U7-8
+Added Net: Name=GND
+Added Pin To Net: NetName=I2C1_SCL Pin=FPC_MCU-6
+Added Pin To Net: NetName=I2C1_SCL Pin=FPC_PWR-18
+Added Net: Name=I2C1_SCL
+Added Pin To Net: NetName=LED1_PWM Pin=FPC_MCU-19
+Added Net: Name=LED1_PWM
+Added Pin To Net: NetName=LED2_PWM Pin=FPC_MCU-9
+Added Net: Name=LED2_PWM
+Added Pin To Net: NetName=TP_NOSE_THERM Pin=FPC_MCU-1
+Added Net: Name=TP_NOSE_THERM
+Added Class: Name=Sch_front
+Added Room: Name=Sch_front
