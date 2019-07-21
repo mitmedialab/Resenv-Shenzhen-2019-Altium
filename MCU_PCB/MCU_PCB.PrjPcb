@@ -172,34 +172,38 @@ DocumentPath=Project Outputs for MCU_PCB\MCU_PCB.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for MCU_PCB\MCU_PCB.GTL
+DocumentPath=Project Outputs for MCU_PCB\MCU_PCB.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for MCU_PCB\MCU_PCB.GTO
+DocumentPath=Project Outputs for MCU_PCB\MCU_PCB.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for MCU_PCB\MCU_PCB.GTP
+DocumentPath=Project Outputs for MCU_PCB\MCU_PCB.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for MCU_PCB\MCU_PCB.GTS
+DocumentPath=Project Outputs for MCU_PCB\MCU_PCB.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for MCU_PCB\MCU_PCB.LDP
+DocumentPath=Project Outputs for MCU_PCB\MCU_PCB.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for MCU_PCB\MCU_PCB.REP
+DocumentPath=Project Outputs for MCU_PCB\MCU_PCB.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for MCU_PCB\MCU_PCB.RUL
+DocumentPath=Project Outputs for MCU_PCB\MCU_PCB.REP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
+DocumentPath=Project Outputs for MCU_PCB\MCU_PCB.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument17]
 DocumentPath=Project Outputs for MCU_PCB\MCU_PCB.TXT
 DItemRevisionGUID=
 
@@ -503,7 +507,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Adobe PDF
+TargetPrinter=ResEnv Printer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=NC Drill
 OutputName1=NC Drill Files
