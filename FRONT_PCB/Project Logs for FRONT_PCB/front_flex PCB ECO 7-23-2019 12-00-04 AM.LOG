@@ -1,0 +1,184 @@
+Added Component: Designator=IC?(QFN40P400X400X100-33N-D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/lp5024"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LP5024RSMR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-LP5024RSMR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=595-LP5024RSMR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=LED?(155124M173200)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/ds/2/445/155124M173200-1113601.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "155124M173200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-155124M173200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=710-155124M173200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1766176P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1766176P"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(ROHM-1510-(0604))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.rohm.com/web/global/datasheet/SMLP36RGB2W(R)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ROHM Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMLP36RGB2W3R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "755-SMLP36RGB2W3R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=755-SMLP36RGB2W3R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1246884"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/1246884"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(155124M173200)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/ds/2/445/155124M173200-1113601.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "155124M173200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-155124M173200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=710-155124M173200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1766176P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1766176P"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(155124M173200)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/ds/2/445/155124M173200-1113601.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "155124M173200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-155124M173200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=710-155124M173200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1766176P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1766176P"; VariantName = "[No Variations]"
+Added Component: Designator=LED?(155124M173200)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/ds/2/445/155124M173200-1113601.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "155124M173200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-155124M173200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=710-155124M173200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1766176P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1766176P"; VariantName = "[No Variations]"
+Added Component: Designator=R5(0402R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R10(0402R)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R?(SMD-0402-RES)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "@ qty"; Value = "1500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheets"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0001+ERJ2GEJ104X+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key Part Number"; Value = "P100KJCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Factory Stock"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Failure Rate"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Automotive AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.016" (0.40mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Image"; Value = "//media.digikey.com/Photos/Panasonic%20Photos/ERJ-PA2-Series.jpg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-2GEJ104X"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Quantity Available"; Value = "2387986"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "ERJ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.039" L x 0.020" W (1.00mm x 0.50mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±200ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Unit Price (USD)"; Value = "0.00350"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=U2(QRE1113_DIP)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U3(ZTP-135SR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70282698"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/amphenol-advanced-sensors-ztp-135sr/70282698/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.amphenol-sensors.com/en/component/edocman/370-thermopile-ir-sensor-applications/download?Itemid=7967"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Amphenol Advanced Sensors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ZTP-135SR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "527-ZTP-135SR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=527-ZTP-135SR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=LED_L_B Pin=IC?-1
+Added Pin To Net: NetName=LED_L_G Pin=IC?-2
+Added Pin To Net: NetName=LED_L_R Pin=IC?-3
+Added Pin To Net: NetName=LED_1_B Pin=IC?-4
+Added Pin To Net: NetName=LED_1_G Pin=IC?-5
+Added Pin To Net: NetName=LED_1_R Pin=IC?-6
+Added Pin To Net: NetName=LED_2_B Pin=IC?-7
+Added Pin To Net: NetName=LED_2_G Pin=IC?-8
+Added Pin To Net: NetName=LED_2_R Pin=IC?-9
+Added Pin To Net: NetName=LED_3_B Pin=IC?-10
+Added Pin To Net: NetName=LED_3_G Pin=IC?-11
+Added Pin To Net: NetName=LED_3_R Pin=IC?-12
+Added Pin To Net: NetName=LED_4_B Pin=IC?-16
+Added Pin To Net: NetName=LED_4_G Pin=IC?-17
+Added Pin To Net: NetName=LED_4_R Pin=IC?-18
+Added Pin To Net: NetName=LED_5_B Pin=IC?-19
+Added Pin To Net: NetName=LED_5_G Pin=IC?-20
+Added Pin To Net: NetName=LED_5_R Pin=IC?-21
+Added Pin To Net: NetName=LED_R_B Pin=IC?-22
+Added Pin To Net: NetName=LED_R_G Pin=IC?-23
+Added Pin To Net: NetName=LED_R_R Pin=IC?-24
+Added Pin To Net: NetName=GND Pin=IC?-25
+Added Pin To Net: NetName=GND Pin=IC?-26
+Added Pin To Net: NetName=VBAT Pin=IC?-27
+Added Pin To Net: NetName=I2C_SDA Pin=IC?-28
+Added Pin To Net: NetName=I2C_SCL Pin=IC?-29
+Added Pin To Net: NetName=VBAT Pin=IC?-30
+Added Pin To Net: NetName=NetIC?_31 Pin=IC?-31
+Added Pin To Net: NetName=NetC?_2 Pin=IC?-32
+Added Pin To Net: NetName=GND Pin=IC?-33
+Added Pin To Net: NetName=VBAT Pin=LED?-1
+Added Pin To Net: NetName=VBAT Pin=LED?-1
+Added Pin To Net: NetName=VBAT Pin=LED?-1
+Added Pin To Net: NetName=VBAT Pin=LED?-1
+Added Pin To Net: NetName=LED_2_B Pin=LED?-2
+Added Pin To Net: NetName=LED_3_B Pin=LED?-2
+Added Pin To Net: NetName=LED_4_B Pin=LED?-2
+Added Pin To Net: NetName=LED_5_B Pin=LED?-2
+Added Pin To Net: NetName=LED_2_G Pin=LED?-3
+Added Pin To Net: NetName=LED_3_G Pin=LED?-3
+Added Pin To Net: NetName=LED_4_G Pin=LED?-3
+Added Pin To Net: NetName=LED_5_G Pin=LED?-3
+Added Pin To Net: NetName=LED_2_R Pin=LED?-4
+Added Pin To Net: NetName=LED_3_R Pin=LED?-4
+Added Pin To Net: NetName=LED_4_R Pin=LED?-4
+Added Pin To Net: NetName=LED_5_R Pin=LED?-4
+Added Pin To Net: NetName=BLINK_SIG Pin=R5-1
+Added Pin To Net: NetName=3.3V Pin=R5-2
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=3.3V Pin=R?-1
+Added Pin To Net: NetName=TP_THERMISTOR Pin=R?-2
+Added Pin To Net: NetName=BLINK_PWM Pin=U2-1
+Added Pin To Net: NetName=NetR10_1 Pin=U2-2
+Added Pin To Net: NetName=BLINK_SIG Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=TP_NOSE_GND Pin=U3-2
+Added Pin To Net: NetName=TP_THERMISTOR Pin=U3-3
+Added Pin To Net: NetName=TP_NOSE Pin=U3-4
+Added Member To Class: ClassName=Sch_led Member=Component * FPC_15_0.3
+Added Member To Class: ClassName=Sch_led Member=Component C? 10µF
+Added Member To Class: ClassName=Sch_led Member=Component C? 1µF
+Added Member To Class: ClassName=Sch_led Member=Component IC? LP8501TME_NOPB
+Added Member To Class: ClassName=Sch_led Member=Component IC? LP5024RSMR
+Added Member To Class: ClassName=Sch_led Member=Component IC? LP8501TME_NOPB
+Added Member To Class: ClassName=Sch_led Member=Component LED? SMLP36RGB2W3R
+Added Member To Class: ClassName=Sch_led Member=Component LED? 155124M173200
+Added Member To Class: ClassName=Sch_led Member=Component LED? SMLP36RGB2W3R
+Added Member To Class: ClassName=Sch_led Member=Component LED? 155124M173200
+Added Member To Class: ClassName=Sch_led Member=Component LED? 155124M173200
+Added Member To Class: ClassName=Sch_led Member=Component LED? 155124M173200
+Added Member To Class: ClassName=Sch_front Member=Component R5 50K
+Added Member To Class: ClassName=Sch_front Member=Component R10 100
+Added Member To Class: ClassName=Sch_front Member=Component R? 100k
+Added Member To Class: ClassName=Sch_led Member=Component R? 4.7k
+Added Member To Class: ClassName=Sch_front Member=Component U2 QRE1113
+Added Member To Class: ClassName=Sch_front Member=Component U3 ZTP-135SR
