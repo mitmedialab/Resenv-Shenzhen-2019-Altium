@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=VBAT_1 Pin=C?-1
+Removed Pin From Net: NetName=GND Pin=C?-2
+Added Component: Designator=J2(TC2030MCPNL10)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.tag-connect.com/Materials/TC2030-CTX.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "18mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Tag Connect"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TC2030-CTX-NL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=VBAT_1 Pin=C?-1
+Added Pin To Net: NetName=3.3V_MCU Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=IC?-9
+Added Pin To Net: NetName=USB_DN_PROT Pin=J2-1
+Added Pin To Net: NetName=3.3V Pin=J2-2
+Added Pin To Net: NetName=USB_DP_PROT Pin=J2-3
+Added Pin To Net: NetName=BOOT0 Pin=J2-4
+Added Pin To Net: NetName=5V Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J2-6
+Added Pin To Net: NetName=VBAT_MUX Pin=J?-1
+Added Pin To Net: NetName=GND Pin=J?-6
+Added Pin To Net: NetName=GND Pin=J?-8
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=VBAT_1 Pin=P?-2
+Added Member To Class: ClassName=Sch_pwr Member=Component C? 4.7µF
+Added Member To Class: ClassName=Sch_pwr Member=Component C? 2.2uF
+Added Member To Class: ClassName=Sch_pwr Member=Component IC? FAN53600AUC33X
+Added Member To Class: ClassName=Sch_external_connectors Member=Component J2 TC2030-CTX-NL
+Added Member To Class: ClassName=Sch_external_connectors Member=Component J? 54722-0164
+Added Member To Class: ClassName=Sch_pwr Member=Component P? Header 2
+Added Member To Class: ClassName=Sch_pwr Member=Component R? 5.6k

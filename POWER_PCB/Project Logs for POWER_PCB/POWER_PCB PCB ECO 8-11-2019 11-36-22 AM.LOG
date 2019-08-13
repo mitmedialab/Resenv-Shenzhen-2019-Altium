@@ -1,0 +1,88 @@
+Removed Pin From Net: NetName=VBAT_2 Pin=C?-1
+Removed Pin From Net: NetName=TP_NOSE Pin=C?-2
+Removed Member From Class: ClassName=sch_sensors Member=U?
+Added Component: Designator=IC?(PCA9570GMH)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.nxp.com/docs/en/data-sheet/PCA9570.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Nexperia"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PCA9570GMH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "771-PCA9570GMH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=771-PCA9570GMH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=S1(PCM12SMTR_1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70417448"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/c-k-pcm12smtr/70417448/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.farnell.com/datasheets/1789487.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "C & K COMPONENTS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PCM12SMTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "611-PCM12SMTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=611-PCM12SMTR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "7931721P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/7931721P"; VariantName = "[No Variations]"
+Added Component: Designator=Y?(ADS7142IRUGT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/ads1015.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADS1015IRUGT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-ADS1015IRUGT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=595-ADS1015IRUGT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "7321496"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/7321496"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V Pin=C?-1
+Added Pin To Net: NetName=AFE_A0 Pin=C?-1
+Added Pin To Net: NetName=AFE_A1 Pin=C?-1
+Added Pin To Net: NetName=CMOUT Pin=C?-1
+Added Pin To Net: NetName=CMOUT Pin=C?-1
+Added Pin To Net: NetName=MUX_SWITCH Pin=C?-1
+Added Pin To Net: NetName=MUX_SWITCH Pin=C?-1
+Added Pin To Net: NetName=MUX_SWITCH Pin=C?-1
+Added Pin To Net: NetName=TP_AFE_OUT Pin=C?-1
+Added Pin To Net: NetName=VBAT_1 Pin=C?-1
+Added Pin To Net: NetName=VBAT_2 Pin=C?-1
+Added Pin To Net: NetName=VBAT_2 Pin=C?-1
+Added Pin To Net: NetName=3.3V_PWR Pin=C?-2
+Added Pin To Net: NetName=3.3V Pin=C?-2
+Added Pin To Net: NetName=CMOUT Pin=C?-2
+Added Pin To Net: NetName=CMOUT Pin=C?-2
+Added Pin To Net: NetName=MUX_SWITCH Pin=C?-2
+Added Pin To Net: NetName=MUX_SWITCH Pin=C?-2
+Added Pin To Net: NetName=MUX_SWITCH Pin=C?-2
+Added Pin To Net: NetName=MUX_SWITCH Pin=C?-2
+Added Pin To Net: NetName=MUX_SWITCH Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=TP_NOSE Pin=C?-2
+Added Pin To Net: NetName=VBAT_RAW Pin=S1-2
+Added Pin To Net: NetName=VBAT Pin=S1-3
+Change Class Name : Old Net Name=sch_sensors New Net Name=Sch_pwr_sys
+Added Class: Name=sch_sensors
+Added Member To Class: ClassName=Sch_pwr_sys Member=Component AC? BNO080
+Added Member To Class: ClassName=Sch_pwr_sys Member=Component C? 0.10µF
+Added Member To Class: ClassName=Sch_pwr_sys Member=Component C? 4.7µF
+Added Member To Class: ClassName=Sch_pwr_sys Member=Component C? 0.10µF
+Added Member To Class: ClassName=Sch_pwr_sys Member=Component C? 0.10µF
+Added Member To Class: ClassName=Sch_pwr_sys Member=Component C? 0.10µF
+Added Member To Class: ClassName=Sch_pwr_sys Member=Component C? 15pF
+Added Member To Class: ClassName=Sch_pwr_sys Member=Component C? 15pF
+Added Member To Class: ClassName=Sch_pwr_sys Member=Component C? 2.2uF
+Added Member To Class: ClassName=Sch_pwr_sys Member=Component C? GRM188R60J106ME47D
+Added Member To Class: ClassName=Sch_pwr_sys Member=Component DS? LTST-C190KFKT
+Added Member To Class: ClassName=Sch_pwr_sys Member=Component IC? DS2786G+
+Added Member To Class: ClassName=Sch_pwr_sys Member=Component IC? MCP73831T-2ACI_MC
+Added Member To Class: ClassName=Sch_pwr_sys Member=Component IC? FXL6408UMX
+Added Member To Class: ClassName=Sch_pwr_sys Member=Component IC? FAN53600AUC33X
+Added Member To Class: ClassName=Sch_pwr_sys Member=Component J? 54722-0164
+Added Member To Class: ClassName=Sch_pwr_sys Member=Component L? LQM21PN1R0MC0D
+Added Member To Class: ClassName=Sch_pwr_sys Member=Component PS? TPS2115ADRBR
+Added Member To Class: ClassName=Sch_pwr_sys Member=Component R? ERJ-2RKF7500X
+Added Member To Class: ClassName=Sch_pwr_sys Member=Component R? 1M
+Added Member To Class: ClassName=Sch_pwr_sys Member=Component R? 1k
+Added Member To Class: ClassName=Sch_pwr_sys Member=Component R? 80.6k
+Added Member To Class: ClassName=Sch_pwr_sys Member=Component R? 5.6k
+Added Member To Class: ClassName=Sch_pwr_sys Member=Component R? 10k
+Added Member To Class: ClassName=Sch_pwr_sys Member=Component R? 0
+Added Member To Class: ClassName=Sch_pwr Member=Component S1 PCM12SMTR
+Added Member To Class: ClassName=Sch_pwr_sys Member=Component Y? FC-135_32.7680KA-A5
+Added Member To Class: ClassName=Sch_pwr_sys Member=Component Y? ADS1015IRUGT

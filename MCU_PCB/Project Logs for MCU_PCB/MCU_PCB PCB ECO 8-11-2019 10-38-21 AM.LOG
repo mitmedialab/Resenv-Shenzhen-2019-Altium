@@ -1,0 +1,95 @@
+Removed Pin From Net: NetName=VBAT_1 Pin=C?-1
+Removed Pin From Net: NetName=GND Pin=C?-2
+Added Component: Designator=C?(CAPC1608X90N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://psearch.en.murata.com/capacitor/product/GRM188R60J106ME47%23.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.9mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "GRM188R60J106ME47D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-GRM188R60J106ME47"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=81-GRM188R60J106ME47"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "7235543P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/7235543P"; VariantName = "[No Variations]"
+Added Component: Designator=IC2(QFN50P700X700X65-49N-D)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/en/microcontrollers/stm32wb55cg.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.65mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32WB55CGU6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-STM32WB55CGU6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=511-STM32WB55CGU6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=L?(INDC2012X55N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/LQM21PN1R0MC0D.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LQM21PN1R0MC0D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-LQM21PN1R0MC0D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=81-LQM21PN1R0MC0D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "7926388"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/7926388"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=VBAT_1 Pin=C?-1
+Added Pin To Net: NetName=3.3V_MCU Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=VBAT_MUX Pin=C?-2
+Added Pin To Net: NetName=3.3V Pin=IC2-1
+Added Pin To Net: NetName=RCC_OSC32_IN Pin=IC2-2
+Added Pin To Net: NetName=RCC_OSC32_OUT Pin=IC2-3
+Added Pin To Net: NetName=BOOT0 Pin=IC2-4
+Added Pin To Net: NetName=I2C1_SCL Pin=IC2-5
+Added Pin To Net: NetName=I2C1_SDA Pin=IC2-6
+Added Pin To Net: NetName=NRST Pin=IC2-7
+Added Pin To Net: NetName=VDDA/VREF Pin=IC2-8
+Added Pin To Net: NetName=PA0 Pin=IC2-9
+Added Pin To Net: NetName=BLINK_PWM Pin=IC2-10
+Added Pin To Net: NetName=BLINK_SIDE_SIG Pin=IC2-11
+Added Pin To Net: NetName=TP_SS Pin=IC2-12
+Added Pin To Net: NetName=LH_SIG Pin=IC2-13
+Added Pin To Net: NetName=TP_AFE_OUT Pin=IC2-14
+Added Pin To Net: NetName=BATT_MEAS Pin=IC2-15
+Added Pin To Net: NetName=SPI_SDIO Pin=IC2-16
+Added Pin To Net: NetName=TP_NOSE_THERM Pin=IC2-17
+Added Pin To Net: NetName=IMU_INT1 Pin=IC2-18
+Added Pin To Net: NetName=BATT_MEAS_CTRL Pin=IC2-19
+Added Pin To Net: NetName=3.3V Pin=IC2-20
+Added Pin To Net: NetName=RF_OUT Pin=IC2-21
+Added Pin To Net: NetName=GND Pin=IC2-22
+Added Pin To Net: NetName=3.3V Pin=IC2-23
+Added Pin To Net: NetName=RCC_OSC_OUT Pin=IC2-24
+Added Pin To Net: NetName=RCC_OSC_IN Pin=IC2-25
+Added Pin To Net: NetName=BLINK_SIG Pin=IC2-28
+Added Pin To Net: NetName=ANALOG_EXP_CONN Pin=IC2-29
+Added Pin To Net: NetName=LED_SS Pin=IC2-30
+Added Pin To Net: NetName=VFBSMPS Pin=IC2-31
+Added Pin To Net: NetName=GND Pin=IC2-32
+Added Pin To Net: NetName=VLXSMPS Pin=IC2-33
+Added Pin To Net: NetName=3.3V Pin=IC2-34
+Added Pin To Net: NetName=3.3V Pin=IC2-35
+Added Pin To Net: NetName=LED2_PWM Pin=IC2-36
+Added Pin To Net: NetName=USB_DN Pin=IC2-37
+Added Pin To Net: NetName=USB_DP Pin=IC2-38
+Added Pin To Net: NetName=SYS_SWDIO Pin=IC2-39
+Added Pin To Net: NetName=3.3V Pin=IC2-40
+Added Pin To Net: NetName=SYS_SWCLK Pin=IC2-41
+Added Pin To Net: NetName=LED1_PWM Pin=IC2-42
+Added Pin To Net: NetName=SPI_SCK Pin=IC2-43
+Added Pin To Net: NetName=TSC_G2_IO1 Pin=IC2-44
+Added Pin To Net: NetName=TSC_G2_IO2 Pin=IC2-45
+Added Pin To Net: NetName=TSC_G2_IO3 Pin=IC2-46
+Added Pin To Net: NetName=TSC_G2_IO4 Pin=IC2-47
+Added Pin To Net: NetName=3.3V Pin=IC2-48
+Added Pin To Net: NetName=GND Pin=IC2-49
+Added Pin To Net: NetName=NetIC?_B1 Pin=L?-1
+Added Pin To Net: NetName=3.3V_MCU Pin=L?-2
+Added Member To Class: ClassName=Sch_pwr Member=Component C? 4.7µF
+Added Member To Class: ClassName=Sch_pwr Member=Component C? 2.2uF
+Added Member To Class: ClassName=Sch_mcu Member=Component IC2 STM32WB55CGU6
+Added Member To Class: ClassName=Sch_pwr Member=Component IC? FAN53600AUC33X
+Added Member To Class: ClassName=Sch_external_connectors Member=Component J? 54722-0164
+Added Member To Class: ClassName=Sch_external_connectors Member=Component J? UJ2-MIBH2-4-SMT-TR
+Added Member To Class: ClassName=Sch_pwr Member=Component L? LQM21PN1R0MC0D
+Added Member To Class: ClassName=Sch_pwr Member=Component R? 5.6k
