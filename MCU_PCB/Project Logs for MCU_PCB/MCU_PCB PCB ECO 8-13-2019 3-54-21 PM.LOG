@@ -1,0 +1,24 @@
+Removed Member From Class: ClassName=Sch_mcu Member=ANT1
+Added Component: Designator=ANT?(ANTC1608X40N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.johansontechnology.com/datasheets/2450AT14A0100/2450AT14A0100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.4mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "JOHANSON TECHNOLOGY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2450AT14A0100T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "609-2450AT14A0100T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=609-2450AT14A0100T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=ANT?(2450AT43B100E)
+Add component. Clean all parameters for all variants
+Added Component: Designator=SB8(JUMPER_SMD)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3.3V Pin=SB8-1
+Added Pin To Net: NetName=BOOT0 Pin=SB8-2
+Added Pin To Net: NetName=NetANT?_1 Pin=ANT?-1
+Added Pin To Net: NetName=NetANT?_1 Pin=C7-2
+Added Pin To Net: NetName=NetANT?_1 Pin=L2-2
+Added Net: Name=NetANT?_1
+Added Member To Class: ClassName=Sch_mcu Member=Component ANT? 2450AT14A0100T
+Added Member To Class: ClassName=Sch_mcu Member=Component ANT? 2450AT43B100E
+Added Member To Class: ClassName=Sch_mcu Member=Component SB8 SOLDER_JUMPER

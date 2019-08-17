@@ -1,0 +1,14 @@
+Removed Member From Class: ClassName=sch_sensors Member=IC?
+Change Component Footprint: Designator=IC? Old Footprint=SOP65P640X110-16N New Footprint=QFN50P500X500X60-33N-D
+Change Component Comment : Designator=IC? Old Comment=SC18IS602BIPW_S8HP New Comment=STM32F301K6U6
+Change component parameters: Designator = "IC?"; Footprint = "QFN50P500X500X60-33N-D"; UniqueID = "\STSMOWFS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/ds/2/389/stm32f301c6-956213.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32F301K6U6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "511-STM32F301K6U6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=511-STM32F301K6U6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Class: Name=Sch_MCU

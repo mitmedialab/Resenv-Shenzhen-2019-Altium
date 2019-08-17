@@ -1,0 +1,18 @@
+Added Component: Designator=C27(CAPC0603X33N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/catalog/supplier/library/pdf/AVXSurfaceMountCeramic.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.33mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "02016D474KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "581-02016D474KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=581-02016D474KAT2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C27-1
+Added Pin To Net: NetName=3.3V_PWR Pin=C27-2
+Added Member To Class: ClassName=Sch_MCU Member=Component C26 10000pF
+Added Member To Class: ClassName=Sch_MCU Member=Component C27 02016D474KAT2A
+Added Member To Class: ClassName=Sch_pwr_sys Member=Component IC4 DS2786G+
+Added Member To Class: ClassName=sch_sensors Member=Component IC5 LMP91051MT_NOPB
+Added Member To Class: ClassName=Sch_MCU Member=Component IC6 STM32F301K6U6
+Added Member To Class: ClassName=Sch_MCU Member=Component R13 10k
