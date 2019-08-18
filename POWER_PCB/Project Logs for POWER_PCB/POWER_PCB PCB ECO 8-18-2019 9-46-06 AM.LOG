@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=SPI3_MOSI Pin=IC5-12
+Added Pin To Net: NetName=SPI3_SCLK Pin=IC5-11
+Added Pin To Net: NetName=SPI3_SCLK Pin=IC6-26
+Added Net: Name=SPI3_SCLK
+Added Room: Name=Sch_MCU
+Added Room: Name=Sch_pwr
+Added Room: Name=Sch_pwr_sys
+Added Room: Name=sch_sensors

@@ -1,0 +1,21 @@
+Added Component: Designator=Y1(ADS7142IRUGT)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/ds/symlink/ads1015.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADS1015IRUGT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "595-ADS1015IRUGT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=595-ADS1015IRUGT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "7321496"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/7321496"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Y1-1
+Added Pin To Net: NetName=ADC_ALERT Pin=Y1-2
+Added Pin To Net: NetName=GND Pin=Y1-3
+Added Pin To Net: NetName=TP_AFE_OUT Pin=Y1-4
+Added Pin To Net: NetName=TP_THERMISTOR Pin=Y1-5
+Added Pin To Net: NetName=ANALOG_EXP_CONN Pin=Y1-6
+Added Pin To Net: NetName=GND Pin=Y1-7
+Added Pin To Net: NetName=3.3V_PWR Pin=Y1-8
+Added Pin To Net: NetName=I2C1_SDA Pin=Y1-9
+Added Pin To Net: NetName=I2C1_SCL Pin=Y1-10
+Added Member To Class: ClassName=Sch_pwr_sys Member=Component Y1 ADS1015IRUGT
