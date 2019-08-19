@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=Sch_pwr Member=R5
+Removed Member From Class: ClassName=Sch_sensors Member=R7
+Added Member To Class: ClassName=Sch_mcu Member=Component R4 10k
+Added Member To Class: ClassName=Sch_pwr Member=Component R6 80.6k
+Added Member To Class: ClassName=Sch_sensors Member=Component R8 47k
+Added Member To Class: ClassName=Sch_sensors Member=Component R11 3.3k
