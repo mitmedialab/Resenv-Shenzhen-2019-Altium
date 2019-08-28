@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=VBAT Pin=LED?-1
+Removed Pin From Net: NetName=VBAT Pin=LED?-1
+Removed Pin From Net: NetName=LED_1_B Pin=LED?-2
+Removed Pin From Net: NetName=LED_R_B Pin=LED?-2
+Removed Pin From Net: NetName=LED_1_G Pin=LED?-3
+Removed Pin From Net: NetName=LED_R_G Pin=LED?-3
+Removed Pin From Net: NetName=LED_1_R Pin=LED?-4
+Removed Pin From Net: NetName=LED_R_R Pin=LED?-4
+Change Component Footprint: Designator=LED? Old Footprint=155124M173200 New Footprint=ROHM-1510-(0604)
+Change Component Comment : Designator=LED? Old Comment=155124M173200 New Comment=SMLP36RGB2W3R
+Change component parameters: Designator = "LED?"; Footprint = "ROHM-1510-(0604)"; UniqueID = "\VIPLSZSO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.rohm.com/web/global/datasheet/SMLP36RGB2W(R)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "ROHM Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SMLP36RGB2W3R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "755-SMLP36RGB2W3R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=755-SMLP36RGB2W3R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "1246884"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/1246884"; VariantName = "[No Variations]"
+Added Component: Designator=IC?(BGA25C40P5X5_226X226X68)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/lp8501"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.675mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LP8501TME/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sch_led Member=Component * FPC_15_0.3
+Added Member To Class: ClassName=Sch_led Member=Component C? 1µF
+Added Member To Class: ClassName=Sch_led Member=Component C? 10µF
+Added Member To Class: ClassName=Sch_led Member=Component IC? LP8501TME_NOPB
+Added Member To Class: ClassName=Sch_led Member=Component IC? LP5024RSMR
+Added Member To Class: ClassName=Sch_led Member=Component LED? 155124M173200
+Added Member To Class: ClassName=Sch_led Member=Component LED? SMLP36RGB2W3R
+Added Member To Class: ClassName=Sch_led Member=Component LED? SMLP36RGB2W3R
+Added Member To Class: ClassName=Sch_led Member=Component LED? 155124M173200
+Added Member To Class: ClassName=Sch_led Member=Component LED? 155124M173200

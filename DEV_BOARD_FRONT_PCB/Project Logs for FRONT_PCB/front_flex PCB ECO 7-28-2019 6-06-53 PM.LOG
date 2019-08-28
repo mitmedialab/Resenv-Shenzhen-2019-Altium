@@ -1,0 +1,31 @@
+Change Component Designator: OldDesignator=LED2 NewDesignator=LED6
+Change Component Designator: OldDesignator=LED3 NewDesignator=LED4
+Change Component Designator: OldDesignator=LED4 NewDesignator=LED2
+Change Component Designator: OldDesignator=LED6 NewDesignator=LED3
+Added Component: Designator=U2(ZTP-135SR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70282698"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/amphenol-advanced-sensors-ztp-135sr/70282698/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.amphenol-sensors.com/en/component/edocman/370-thermopile-ir-sensor-applications/download?Itemid=7967"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Amphenol Advanced Sensors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ZTP-135SR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "527-ZTP-135SR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=527-ZTP-135SR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=TP_NOSE_GND Pin=U2-2
+Added Pin To Net: NetName=TP_THERMISTOR Pin=U2-3
+Added Pin To Net: NetName=TP_NOSE Pin=U2-4
+Added Member To Class: ClassName=Sch_led Member=Component C1 1µF
+Added Member To Class: ClassName=Sch_led Member=Component C2 1µF
+Added Member To Class: ClassName=Sch_led Member=Component C3 0.47µF
+Added Member To Class: ClassName=Sch_led Member=Component IC1 LP8501TME_NOPB
+Added Member To Class: ClassName=Sch_led Member=Component LED1 APFA3010SEKJ3ZGKQBKC
+Added Member To Class: ClassName=Sch_led Member=Component LED2 APFA3010SEKJ3ZGKQBKC
+Added Member To Class: ClassName=Sch_led Member=Component LED3 APFA3010SEKJ3ZGKQBKC
+Added Member To Class: ClassName=Sch_led Member=Component LED4 APFA3010SEKJ3ZGKQBKC
+Added Member To Class: ClassName=Sch_led Member=Component LED5 SMLP36RGB2W3R
+Added Member To Class: ClassName=Sch_led Member=Component LED6 SMLP36RGB2W3R
+Added Member To Class: ClassName=Sch_front Member=Component R2 100
+Added Member To Class: ClassName=Sch_front Member=Component U2 ZTP-135SR

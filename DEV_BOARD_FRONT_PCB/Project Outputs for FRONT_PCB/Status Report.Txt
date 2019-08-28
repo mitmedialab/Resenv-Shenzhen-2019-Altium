@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [FRONT_PCB.PrjPcb]
+   Generated File[front_flex.TXT]
+   Generated File[front_flex.TX1]
+   Generated File[front_flex.LDP]
+   Generated File[front_flex.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 5:20:13 PM On 8/6/2019

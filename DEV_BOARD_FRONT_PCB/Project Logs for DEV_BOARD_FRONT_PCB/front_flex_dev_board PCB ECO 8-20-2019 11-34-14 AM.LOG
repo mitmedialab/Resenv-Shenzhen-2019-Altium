@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=IMU_INT Pin=J1-9
+Removed Pin From Net: NetName=I2C_SDA Pin=J1-11
+Removed Pin From Net: NetName=IMU_INT Pin=R14-1
+Removed Pin From Net: NetName=I2C_SDA Pin=R16-1
+Added Pin To Net: NetName=IMU_INT Pin=J2-10
+Added Pin To Net: NetName=I2C_SDA Pin=J2-12
+Added Pin To Net: NetName=IMU_INT Pin=R14-2
+Added Pin To Net: NetName=I2C_SDA Pin=R16-2
+Added Pin To Net: NetName=NetJ1_9 Pin=J1-9
+Added Pin To Net: NetName=NetJ1_9 Pin=R14-1
+Added Net: Name=NetJ1_9
+Added Pin To Net: NetName=NetJ1_11 Pin=J1-11
+Added Pin To Net: NetName=NetJ1_11 Pin=R16-1
+Added Net: Name=NetJ1_11

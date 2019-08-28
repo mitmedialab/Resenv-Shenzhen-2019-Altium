@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : QRE1113GR.LibPkg
+
+Section : B:\Downloads\QRE1113GR\QRE1113GR.lia
+    Section : PCB Library - QRE1113GR.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token C4LEAD On Line 125
+            Warning - 1 : Skipping Token attachedSymbol On Line 230
+        EndSection
+
+        Section : Import Messages
+            Warning - 0 : PCAD Pattern Graphics [*4LEADSMD][Primary] associated with PCAD Component [QRE1113GR] has been renamed to PCB FootPrint [*4LEADSMD_QRE1113GR(Primary)].
+        EndSection
+    EndSection
+
+    Section : SCH Library - QRE1113GR.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 90
+            Warning - 1 : Skipping Token layerContents On Line 116
+        EndSection
+
+        Section : Generating SCH Library - QRE1113GR.SchLib
+            Warning - 0 : PCAD Pattern Graphics [*4LEADSMD][Primary] associated with PCAD Component [QRE1113GR] has been renamed to PCB FootPrint [*4LEADSMD_QRE1113GR(Primary)].
+        EndSection
+    EndSection
+EndSection

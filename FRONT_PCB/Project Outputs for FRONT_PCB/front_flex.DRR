@@ -1,28 +1,31 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: front_flex.PcbDoc   8/6/2019  5:20:13 PM
+NCDrill File Report For: front_flex.PcbDoc   8/28/2019  5:35:58 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
-Layer Pair : Top Layer to Bottom Layer
+Layer Pair : Layer 1 (Top Layer) to Layer 4 (Bottom Layer)
 ASCII RoundHoles File : front_flex.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      4mil (0.102mm)                                            Round             20        PTH        0.00inch (0.00mm)
+T1      4mil (0.102mm)                                            Round             19        PTH        0.00inch (0.00mm)
 T2      6mil (0.152mm)                                            Round             1         PTH        0.00inch (0.00mm)
-T3      8mil (0.203mm)                                            Round             61        PTH        0.00inch (0.00mm)
-T4      12mil (0.305mm)                                           Round             2         PTH        0.00inch (0.00mm)
-T5      39mil (1mm)                                               Round             8         PTH        0.00inch (0.00mm)
+T3      8mil (0.203mm)                                            Round             44        PTH        0.00inch (0.00mm)
+T4      10mil (0.254mm)                                           Round             2         PTH        0.00inch (0.00mm)
+T5      12mil (0.305mm)                                           Round             3         PTH        0.00inch (0.00mm)
+T6      28mil (0.7mm)                                             Round             4         PTH        0.00inch (0.00mm)
+T7      39mil (1mm)                                               Round             8         PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              92
-Layer Pair : GND to Bottom Layer
+Totals                                                                              81
+Layer Pair : Layer 3 (GND) to Layer 4 (Bottom Layer)
 ASCII RoundHoles File : front_flex.TX1
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T3      8mil (0.203mm)                                            Round             3         PTH        0.00inch (0.00mm)
+T3      8mil (0.203mm)                                            Round             17        PTH        0.00inch (0.00mm)
+T5      12mil (0.305mm)                                           Round             1         PTH        0.00inch (0.00mm)
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              3
+Totals                                                                              18
 ----------------------------------------------------------------------------------------------------------------------------------
-Totals                                                                              95
+Totals                                                                              99
 
 Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,6 +1,6 @@
-DRC Rules Export File for PCB: C:\Users\patri\Desktop\OneDrive - Massachusetts Institute of Technology\altium\altium_designs\ProjectAttendance\FRONT_PCB\front_flex.PcbDoc
+DRC Rules Export File for PCB: C:\Users\patrick\OneDrive - Massachusetts Institute of Technology\altium\altium_designs\ProjectAttendance\FRONT_PCB\front_flex.PcbDoc
 RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
-RuleKind=Width|RuleName=POWER|Scope=Board|Minimum=6.00
+RuleKind=Width|RuleName=POWER|Scope=Board|Minimum=4.00
 RuleKind=Width|RuleName=Width|Scope=Board|Minimum=4.00
 RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=4.00
 RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

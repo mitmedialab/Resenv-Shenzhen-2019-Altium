@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=TRANS_IMP_OUT Pin=IC7-1
+Added Pin To Net: NetName=LH_DIODE_ARRAY Pin=IC7-2
+Added Pin To Net: NetName=GND Pin=IC7-3
+Added Pin To Net: NetName=GND Pin=IC7-4
+Added Pin To Net: NetName=NetC29_2 Pin=IC7-5
+Added Pin To Net: NetName=LH_INV_AMP_N Pin=IC7-6
+Added Pin To Net: NetName=LH_SIG Pin=IC7-7
+Added Pin To Net: NetName=3.3V_MCU Pin=IC7-8
+Added Pin To Net: NetName=GND Pin=IC7-9
+Added Member To Class: ClassName=Sch_mcu_brd_sensors Member=Component IC7 TLV9062IDSGT

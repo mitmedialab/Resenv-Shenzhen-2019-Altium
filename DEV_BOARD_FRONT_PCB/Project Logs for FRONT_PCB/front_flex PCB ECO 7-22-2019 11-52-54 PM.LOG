@@ -1,0 +1,21 @@
+Added Component: Designator=IC?(BGA25C40P5X5_226X226X68)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/lp8501"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.675mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LP8501TME/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Sch_led Member=Component * FPC_15_0.3
+Added Member To Class: ClassName=Sch_led Member=Component C? 10µF
+Added Member To Class: ClassName=Sch_led Member=Component C? 1µF
+Added Member To Class: ClassName=Sch_led Member=Component IC? LP5024RSMR
+Added Member To Class: ClassName=Sch_led Member=Component LED? 155124M173200
+Added Member To Class: ClassName=Sch_led Member=Component LED? 155124M173200
+Added Member To Class: ClassName=Sch_led Member=Component LED? 155124M173200
+Added Member To Class: ClassName=Sch_led Member=Component LED? 155124M173200
+Added Member To Class: ClassName=Sch_led Member=Component LED? 155124M173200
+Added Member To Class: ClassName=Sch_led Member=Component LED? 155124M173200
+Added Member To Class: ClassName=Sch_led Member=Component LED? SMLP36RGB2W3R

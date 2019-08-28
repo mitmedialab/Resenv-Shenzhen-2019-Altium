@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=GND Pin=J3-8
+Added Pin To Net: NetName=GND Pin=J3-10
+Added Pin To Net: NetName=GND Pin=J3-12
+Added Member To Class: ClassName=Sch_led Member=Component R9 0.75
+Added Member To Class: ClassName=Sch_led Member=Component R11 1.47
+Added Member To Class: ClassName=Sch_led Member=Component R12 1.47
+Added Member To Class: ClassName=Sch_led Member=Component R13 1.47
+Added Member To Class: ClassName=Sch_led Member=Component R15 1.47

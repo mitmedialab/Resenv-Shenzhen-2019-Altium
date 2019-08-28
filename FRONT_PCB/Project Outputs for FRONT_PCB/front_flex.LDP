@@ -1,3 +1,3 @@
-Layer Pairs Export File for PCB: C:\Users\patri\Desktop\OneDrive - Massachusetts Institute of Technology\altium\altium_designs\ProjectAttendance\FRONT_PCB\front_flex.PcbDoc
+Layer Pairs Export File for PCB: C:\Users\patrick\OneDrive - Massachusetts Institute of Technology\altium\altium_designs\ProjectAttendance\FRONT_PCB\front_flex.PcbDoc
 LayersSetName=Top_Bot_Thru_Holes|DrillFile=front_flex.txt|DrillLayers=gtl,g1,g2,gbl
-LayersSetName=GND_Bot_Blind_Vias|DrillFile=front_flex.tx1|DrillLayers=g2,gbl
+LayersSetName=3(GND)_4(BottomLayer)_Blind_Vias|DrillFile=front_flex.tx1|DrillLayers=g2,gbl

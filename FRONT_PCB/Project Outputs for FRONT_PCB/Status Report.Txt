@@ -1,13 +1,26 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [FRONT_PCB.PrjPcb]
-   Generated File[front_flex.TXT]
-   Generated File[front_flex.TX1]
-   Generated File[front_flex.LDP]
-   Generated File[front_flex.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [FRONT_PCB.PrjPcb]
+   Generated File[front_flex.GTO]
+   Generated File[front_flex.GTP]
+   Generated File[front_flex.GTP1]
+   Generated File[front_flex.GTS1]
+   Generated File[front_flex.GTS]
+   Generated File[front_flex.GTL]
+   Generated File[front_flex.G1]
+   Generated File[front_flex.G2]
+   Generated File[front_flex.GBL]
+   Generated File[front_flex.GBS]
+   Generated File[front_flex.GBP]
+   Generated File[front_flex.GBO]
+   Generated File[front_flex.GM3]
+   Generated File[front_flex.GM20]
+   Generated File[front_flex.RUL]
+   Generated File[front_flex.EXTREP]
+   Generated File[front_flex.REP]
 
 
-Files Generated   : 4
+Files Generated   : 17
 Documents Printed : 0
 
-Finished Output Generation At 5:20:13 PM On 8/6/2019
+Finished Output Generation At 5:36:38 PM On 8/28/2019
