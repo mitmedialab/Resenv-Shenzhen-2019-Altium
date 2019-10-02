@@ -1,12 +1,23 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : Project [POWER_PCB.PrjPcb]
-   Generated File[POWER_PCB.TXT]
-   Generated File[POWER_PCB.LDP]
-   Generated File[POWER_PCB.DRR]
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [POWER_PCB.PrjPcb]
+   Generated File[POWER_PCB.GTO]
+   Generated File[POWER_PCB.GTP]
+   Generated File[POWER_PCB.GTS]
+   Generated File[POWER_PCB.GTL]
+   Generated File[POWER_PCB.G1]
+   Generated File[POWER_PCB.G2]
+   Generated File[POWER_PCB.GBL]
+   Generated File[POWER_PCB.GBS]
+   Generated File[POWER_PCB.GBP]
+   Generated File[POWER_PCB.GBO]
+   Generated File[POWER_PCB.GM2]
+   Generated File[POWER_PCB.RUL]
+   Generated File[POWER_PCB.EXTREP]
+   Generated File[POWER_PCB.REP]
 
 
-Files Generated   : 3
+Files Generated   : 14
 Documents Printed : 0
 
-Finished Output Generation At 2:41:48 AM On 6/13/2019
+Finished Output Generation At 12:07:50 PM On 10/2/2019

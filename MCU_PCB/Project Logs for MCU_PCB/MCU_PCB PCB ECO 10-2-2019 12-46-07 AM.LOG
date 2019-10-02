@@ -1,0 +1,8 @@
+Added Component: Designator=*(X2SON)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=LH_SIG Pin=*-1
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=GND Pin=*-3
+Added Pin To Net: NetName=Net*_4 Pin=*-4
+Added Pin To Net: NetName=3.3V_MCU Pin=*-5
+Added Member To Class: ClassName=Sch_sensors Member=Component * TLV9061DPWR
