@@ -1,23 +1,12 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [MCU_PCB.PrjPcb]
-   Generated File[MCU_PCB.GTO]
-   Generated File[MCU_PCB.GTP]
-   Generated File[MCU_PCB.GTS]
-   Generated File[MCU_PCB.GTL]
-   Generated File[MCU_PCB.G1]
-   Generated File[MCU_PCB.G2]
-   Generated File[MCU_PCB.GBL]
-   Generated File[MCU_PCB.GBS]
-   Generated File[MCU_PCB.GBP]
-   Generated File[MCU_PCB.GBO]
-   Generated File[MCU_PCB.GM2]
-   Generated File[MCU_PCB.RUL]
-   Generated File[MCU_PCB.EXTREP]
-   Generated File[MCU_PCB.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [MCU_PCB.PrjPcb]
+   Generated File[MCU_PCB.TXT]
+   Generated File[MCU_PCB.LDP]
+   Generated File[MCU_PCB.DRR]
 
 
-Files Generated   : 14
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 12:08:27 PM On 10/2/2019
+Finished Output Generation At 10:05:11 AM On 10/4/2019

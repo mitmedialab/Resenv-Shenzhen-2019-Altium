@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [DEV_BOARD_FRONT_PCB.PrjPcb]
+   Generated File[front_flex_dev_board-RoundHoles.TXT]
+   Generated File[front_flex_dev_board-SlotHoles.TXT]
+   Generated File[front_flex_dev_board.LDP]
+   Generated File[front_flex_dev_board.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 7:22:51 PM On 10/14/2019
