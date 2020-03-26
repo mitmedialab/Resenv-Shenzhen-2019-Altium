@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=NetIC3_1 Pin=CN3-1
+Added Pin To Net: NetName=NetIC3_7 Pin=CN3-2
+Added Pin To Net: NetName=NetIC2_7 Pin=CN3-3
+Change Net Name : Old Net Name=NetIC2_7 New Net Name=DIODE_3_AMP_OUT
+Change Net Name : Old Net Name=NetIC3_1 New Net Name=DIODE_1_AMP_OUT
+Change Net Name : Old Net Name=NetIC3_7 New Net Name=DIODE_2_AMP_OUT
+Added Room: Name=Sheet1

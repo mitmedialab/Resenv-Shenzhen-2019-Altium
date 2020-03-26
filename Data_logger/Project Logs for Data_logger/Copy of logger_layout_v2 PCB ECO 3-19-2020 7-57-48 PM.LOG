@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NRST Pin=J1-6
+Removed Pin From Net: NetName=TP_EN Pin=J1-18
+Added Pin To Net: NetName=TP_EN Pin=J1-6
+Added Pin To Net: NetName=NRST Pin=J1-18

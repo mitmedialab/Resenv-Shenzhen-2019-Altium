@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=IC5 Old Footprint=X2SON New Footprint=SON65P200X200X90-7N
+Added Pin To Net: NetName=3.3V_MCU Pin=IC5-6
+Added Pin To Net: NetName=GND Pin=IC5-7

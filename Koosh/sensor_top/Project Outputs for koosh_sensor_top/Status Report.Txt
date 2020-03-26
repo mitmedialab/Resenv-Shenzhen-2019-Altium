@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [koosh_sensor_top.PrjPcb]
+   Generated File[koosh_sensor_top_v1_1.TXT]
+   Generated File[koosh_sensor_top_v1_1.LDP]
+   Generated File[koosh_sensor_top_v1_1.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 7:30:02 PM On 3/22/2020

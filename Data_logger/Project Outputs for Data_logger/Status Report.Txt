@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Data_logger.PrjPcb]
+   Generated File[Copy of logger_layout_v2.TXT]
+   Generated File[Copy of logger_layout_v2.LDP]
+   Generated File[Copy of logger_layout_v2.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:51:39 PM On 3/19/2020

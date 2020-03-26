@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=VBAT Pin=C?-1
+Removed Pin From Net: NetName=TP_INT Pin=J?-1
+Removed Pin From Net: NetName=GND Pin=J?-2
+Removed Pin From Net: NetName=3.3V Pin=J?-3
+Removed Pin From Net: NetName=SPI1_SCK Pin=J?-4
+Removed Pin From Net: NetName=MIC_ENV Pin=J?-5
+Removed Pin From Net: NetName=TP_EN Pin=J?-6
+Removed Pin From Net: NetName=SD_CS Pin=J?-7
+Removed Pin From Net: NetName=USB_DN Pin=J?-8
+Removed Pin From Net: NetName=SPI1_MOSI Pin=J?-9
+Removed Pin From Net: NetName=USB_DP Pin=J?-10
+Removed Pin From Net: NetName=VBAT Pin=J?-11
+Removed Pin From Net: NetName=IMU_EN Pin=J?-12
+Removed Pin From Net: NetName=SPI1_MISO Pin=J?-13
+Removed Pin From Net: NetName=SYS_SWCLK Pin=J?-14
+Removed Pin From Net: NetName=IMU_INT Pin=J?-15
+Removed Pin From Net: NetName=SYS_SWDIO Pin=J?-16
+Removed Pin From Net: NetName=I2C1_SCL Pin=J?-17
+Removed Pin From Net: NetName=GND Pin=J?-18
+Removed Pin From Net: NetName=NRST Pin=J?-19
+Removed Pin From Net: NetName=I2C1_SDA Pin=J?-20
+Added Pin To Net: NetName=5V Pin=C?-1
+Added Pin To Net: NetName=NetAC?_9 Pin=C?-1
+Added Pin To Net: NetName=VBAT Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=NRST Pin=J?-1
+Added Pin To Net: NetName=I2C1_SDA Pin=J?-2
+Added Pin To Net: NetName=I2C1_SCL Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Pin To Net: NetName=IMU_INT Pin=J?-5
+Added Pin To Net: NetName=SYS_SWDIO Pin=J?-6
+Added Pin To Net: NetName=SPI1_MISO Pin=J?-7
+Added Pin To Net: NetName=SYS_SWCLK Pin=J?-8
+Added Pin To Net: NetName=VBAT Pin=J?-9
+Added Pin To Net: NetName=IMU_EN Pin=J?-10
+Added Pin To Net: NetName=SPI1_MOSI Pin=J?-11
+Added Pin To Net: NetName=USB_DP Pin=J?-12
+Added Pin To Net: NetName=SD_CS Pin=J?-13
+Added Pin To Net: NetName=USB_DN Pin=J?-14
+Added Pin To Net: NetName=MIC_ENV Pin=J?-15
+Added Pin To Net: NetName=TP_EN Pin=J?-16
+Added Pin To Net: NetName=3.3V Pin=J?-17
+Added Pin To Net: NetName=SPI1_SCK Pin=J?-18
+Added Pin To Net: NetName=TP_INT Pin=J?-19
+Added Pin To Net: NetName=GND Pin=J?-20
+Added Member To Class: ClassName=koosh_sd_card_base Member=Component C? 4.7µF
+Added Member To Class: ClassName=koosh_sd_card_base Member=Component C? 15pF
+Added Member To Class: ClassName=koosh_sd_card_base Member=Component C? 0.10µF
+Added Member To Class: ClassName=koosh_sd_card_base Member=Component C? 15pF
+Added Member To Class: ClassName=koosh_sd_card_base Member=Component C? 0.10µF
+Added Member To Class: ClassName=koosh_sd_card_base Member=Component C? 0.10µF
+Added Member To Class: ClassName=koosh_sd_card_base Member=Component IC? MCP73831T-2ACI_MC
+Added Member To Class: ClassName=koosh_sd_card_base Member=Component J? 0475710001
+Added Member To Class: ClassName=koosh_sd_card_base Member=Component J? ZX62-B-5PA(33)
+Added Member To Class: ClassName=koosh_sd_card_base Member=Component J? 0537480208
+Added Member To Class: ClassName=koosh_sd_card_base Member=Component TP? TestPoint
+Added Member To Class: ClassName=koosh_sd_card_base Member=Component TP? TestPoint
+Added Member To Class: ClassName=koosh_sd_card_base Member=Component TP? TestPoint
+Added Member To Class: ClassName=koosh_sd_card_base Member=Component TP? TestPoint
+Added Member To Class: ClassName=koosh_sd_card_base Member=Component TP? TestPoint
+Added Member To Class: ClassName=koosh_sd_card_base Member=Component TP? TestPoint

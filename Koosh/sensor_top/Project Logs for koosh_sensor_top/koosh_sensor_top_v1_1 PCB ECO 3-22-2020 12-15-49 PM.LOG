@@ -1,0 +1,21 @@
+Added Component: Designator=*(KooshTopBoardConn)
+Added Component: Designator=Q2(SOTFL50P160X85-3N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/RE1C002ZPTL.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ROHM Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RE1C002ZPTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "755-RE1C002ZPTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=755-RE1C002ZPTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1486960P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1486960P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MIC_SIG Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-2
+Added Pin To Net: NetName=MIC_EN Pin=*-3
+Added Pin To Net: NetName=MIC_ENV Pin=*-4
+Added Pin To Net: NetName=GND Pin=*-5
+Added Pin To Net: NetName=3.3V Pin=*-6
+Added Pin To Net: NetName=LH_EN Pin=Q2-1
+Added Pin To Net: NetName=3.3V Pin=Q2-2
+Added Pin To Net: NetName=3.3V_LH Pin=Q2-3
+Added Member To Class: ClassName=koosh_sensor_top Member=Component * KooshTopSensorConn
+Added Member To Class: ClassName=koosh_sensor_top_lighthouse Member=Component Q2 RE1C002ZPTL

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=MIC_ENV Pin=J1-5
+Removed Pin From Net: NetName=IMU_INT Pin=J1-15
+Added Pin To Net: NetName=IMU_INT Pin=J1-5
+Added Pin To Net: NetName=MIC_ENV Pin=J1-15
+Added Member To Class: ClassName=koosh_mcu Member=Component R? 0

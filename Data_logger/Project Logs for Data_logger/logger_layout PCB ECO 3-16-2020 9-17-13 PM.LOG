@@ -1,0 +1,61 @@
+Removed Pin From Net: NetName=3.3V_PWR Pin=C?-1
+Removed Pin From Net: NetName=GND Pin=C?-2
+Removed Pin From Net: NetName=GND Pin=R?-2
+Removed Pin From Net: NetName=IMU_CLK_IN Pin=Y?-1
+Removed Pin From Net: NetName=IMU_CLK_OUT Pin=Y?-2
+Removed Member From Class: ClassName=logger_power Member=R?
+Removed Member From Class: ClassName=logger_power Member=U?
+Removed Member From Class: ClassName=logger_power Member=Y?
+Added Component: Designator=AC?(BNO080)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.hillcrestlabs.com/download/5a05f340566d07c196001ec1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.18mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Hillcrest Laboratories"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BNO080"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U?(TPIS_1S_1385)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://media.digikey.com/pdf/Data%20Sheets/Excelitas%20PDFs/TPiS_1S_1385.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Excelitas Technologies"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TPIS 1S 1385"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=AC?-2
+Added Pin To Net: NetName=3.3V_PWR Pin=AC?-3
+Added Pin To Net: NetName=NetAC?_4 Pin=AC?-4
+Added Pin To Net: NetName=GND Pin=AC?-5
+Added Pin To Net: NetName=GND Pin=AC?-6
+Added Pin To Net: NetName=NetAC?_9 Pin=AC?-9
+Added Pin To Net: NetName=GND Pin=AC?-10
+Added Pin To Net: NetName=IMU_INT Pin=AC?-14
+Added Pin To Net: NetName=NetAC?_17 Pin=AC?-17
+Added Pin To Net: NetName=I2C1_SCL Pin=AC?-19
+Added Pin To Net: NetName=I2C1_SDA Pin=AC?-20
+Added Pin To Net: NetName=GND Pin=AC?-25
+Added Pin To Net: NetName=IMU_CLK_OUT Pin=AC?-26
+Added Pin To Net: NetName=IMU_CLK_IN Pin=AC?-27
+Added Pin To Net: NetName=3.3V_PWR Pin=AC?-28
+Added Pin To Net: NetName=NetAC?_9 Pin=C?-1
+Added Pin To Net: NetName=NetAC?_4 Pin=R?-1
+Added Pin To Net: NetName=NetAC?_17 Pin=R?-1
+Added Pin To Net: NetName=IMU_CLK_IN Pin=Y?-1
+Added Pin To Net: NetName=RCC_OSC_OUT Pin=Y?-1
+Added Pin To Net: NetName=IMU_CLK_OUT Pin=Y?-2
+Added Member To Class: ClassName=logger_sensors Member=Component AC? BNO080
+Added Member To Class: ClassName=logger_mcu Member=Component C? 15pF
+Added Member To Class: ClassName=logger_mcu Member=Component C? 15pF
+Added Member To Class: ClassName=logger_mcu Member=Component C? 4.7µF
+Added Member To Class: ClassName=logger_power Member=Component C? 1µF
+Added Member To Class: ClassName=logger_sensors Member=Component C? 0.10µF
+Added Member To Class: ClassName=logger_sensors Member=Component C? 0.10µF
+Added Member To Class: ClassName=logger_sensors Member=Component C? 0.10µF
+Added Member To Class: ClassName=logger_sensors Member=Component C? 15pF
+Added Member To Class: ClassName=logger_mcu Member=Component R? 10k
+Added Member To Class: ClassName=logger_sensors Member=Component R? 10k
+Added Member To Class: ClassName=logger_sensors Member=Component U? TPIS_1S_1385
+Added Member To Class: ClassName=logger_mcu Member=Component Y? XRCGB32M000F1H01R0

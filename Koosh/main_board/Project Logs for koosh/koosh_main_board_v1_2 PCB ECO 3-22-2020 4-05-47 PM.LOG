@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=MIC_ENV Pin=IC1-9
+Added Component: Designator=P1(P70-5000045R)
+Added Pin To Net: NetName=LH_SIG Pin=IC1-9
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Member To Class: ClassName=koosh_sensors Member=Component P1 P70-5000045R

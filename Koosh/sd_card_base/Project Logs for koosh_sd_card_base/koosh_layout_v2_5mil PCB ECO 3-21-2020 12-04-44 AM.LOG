@@ -1,0 +1,88 @@
+Removed Pin From Net: NetName=SD_CS Pin=J?-2
+Removed Pin From Net: NetName=SPI1_MOSI Pin=J?-3
+Removed Pin From Net: NetName=3.3V Pin=J?-4
+Removed Pin From Net: NetName=SPI1_SCK Pin=J?-5
+Removed Pin From Net: NetName=SPI1_MISO Pin=J?-7
+Change Component Footprint: Designator=J? Old Footprint=1040310811 New Footprint=TC2030MCPNL10
+Change Component Comment : Designator=J? Old Comment=1040310811 New Comment=TC2030-CTX-NL
+Change component parameters: Designator = "J?" ("J?"); Footprint = "1040310811"; UniqueID = "\HYTXGXSJ" ("\HYTXGXSJ")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "http://www.tag-connect.com/Materials/TC2030-CTX.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "18mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Tag Connect"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "TC2030-CTX-NL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC?(SOT95P280X145-6N)
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "http://www.alliedelec.com/stmicroelectronics-usblc6-2sc6/70389689/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied_Number"; Value = "70389689"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00050750.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.45mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "USBLC6-2SC6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-USBLC6-2SC6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=511-USBLC6-2SC6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "9206266"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/9206266"; VariantName = "[No Variations]"
+Added Component: Designator=J?(0475710001)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.molex.com/pdm_docs/sd/475710001_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.3mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0475710001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP?(TestPoint_0.4mm)
+Added Component: Designator=TP?(TestPoint_0.4mm)
+Added Component: Designator=TP?(TestPoint_0.4mm)
+Added Component: Designator=TP?(TestPoint_0.4mm)
+Added Pin To Net: NetName=5V Pin=C?-1
+Added Pin To Net: NetName=VBAT Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=GND Pin=C?-2
+Added Pin To Net: NetName=USB_DN Pin=IC?-1
+Added Pin To Net: NetName=GND Pin=IC?-2
+Added Pin To Net: NetName=USB_DP Pin=IC?-3
+Added Pin To Net: NetName=5V Pin=IC?-5
+Added Pin To Net: NetName=SD_CS Pin=J?-2
+Added Pin To Net: NetName=SPI1_MOSI Pin=J?-3
+Added Pin To Net: NetName=3.3V Pin=J?-4
+Added Pin To Net: NetName=5V Pin=J?-5
+Added Pin To Net: NetName=SPI1_SCK Pin=J?-5
+Added Pin To Net: NetName=GND Pin=J?-6
+Added Pin To Net: NetName=SPI1_MISO Pin=J?-7
+Added Pin To Net: NetName=GND Pin=J?-G1
+Added Pin To Net: NetName=GND Pin=J?-G2
+Added Pin To Net: NetName=GND Pin=J?-G3
+Added Pin To Net: NetName=5V Pin=TP?-1
+Added Pin To Net: NetName=USB_DN Pin=TP?-1
+Added Pin To Net: NetName=USB_DP Pin=TP?-1
+Added Pin To Net: NetName=3.3V_MCU Pin=J?-2
+Added Net: Name=3.3V_MCU
+Added Pin To Net: NetName=BOOT0 Pin=J?-4
+Added Pin To Net: NetName=BOOT0 Pin=TP?-1
+Added Net: Name=BOOT0
+Added Pin To Net: NetName=NetIC?_4 Pin=IC?-4
+Added Pin To Net: NetName=NetIC?_4 Pin=J?-3
+Added Net: Name=NetIC?_4
+Added Pin To Net: NetName=NetIC?_6 Pin=IC?-6
+Added Pin To Net: NetName=NetIC?_6 Pin=J?-1
+Added Net: Name=NetIC?_6
+Added Member To Class: ClassName=koosh_sd_card_base Member=Component C? 0.10µF
+Added Member To Class: ClassName=koosh_sd_card_base Member=Component C? 15pF
+Added Member To Class: ClassName=koosh_sd_card_base Member=Component C? 4.7µF
+Added Member To Class: ClassName=koosh_sd_card_base Member=Component C? 4.7µF
+Added Member To Class: ClassName=koosh_sd_card_base Member=Component C? 0.10µF
+Added Member To Class: ClassName=koosh_sd_card_base Member=Component C? 0.10µF
+Added Member To Class: ClassName=koosh_sd_card_base Member=Component IC? USBLC6-2SC6
+Added Member To Class: ClassName=koosh_sd_card_base Member=Component J? 0475710001
+Added Member To Class: ClassName=koosh_sd_card_base Member=Component J? ZX62-B-5PA(33)
+Added Member To Class: ClassName=koosh_sd_card_base Member=Component J? TC2030-CTX-NL
+Added Member To Class: ClassName=koosh_sd_card_base Member=Component TP? TestPoint
+Added Member To Class: ClassName=koosh_sd_card_base Member=Component TP? TestPoint
+Added Member To Class: ClassName=koosh_sd_card_base Member=Component TP? TestPoint
+Added Member To Class: ClassName=koosh_sd_card_base Member=Component TP? TestPoint
+Added Member To Class: ClassName=koosh_sd_card_base Member=Component TP? TestPoint
+Added Member To Class: ClassName=koosh_sd_card_base Member=Component TP? TestPoint

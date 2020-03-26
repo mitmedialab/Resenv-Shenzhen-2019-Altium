@@ -1,0 +1,46 @@
+Removed Member From Class: ClassName=sch_sensors Member=C?
+Removed Member From Class: ClassName=Sch_pwr_sys Member=IC?
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=C? NewDesignator=C27
+Change Component Designator: OldDesignator=C? NewDesignator=C28
+Change Component Designator: OldDesignator=C? NewDesignator=C29
+Change Component Designator: OldDesignator=C? NewDesignator=C30
+Change Component Designator: OldDesignator=IC? NewDesignator=IC5
+Change Component Designator: OldDesignator=IC? NewDesignator=IC6
+Change Component Designator: OldDesignator=MK? NewDesignator=MK1
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Change Component Designator: OldDesignator=R? NewDesignator=R18
+Change Component Designator: OldDesignator=R? NewDesignator=R19
+Change Component Designator: OldDesignator=R? NewDesignator=R20
+Change Component Designator: OldDesignator=R? NewDesignator=R21
+Change Component Designator: OldDesignator=R? NewDesignator=R22
+Change Component Designator: OldDesignator=R? NewDesignator=R23
+Change Net Name : Old Net Name=NetC?_1 New Net Name=NetC29_1
+Change Net Name : Old Net Name=NetC?_2 New Net Name=NetC28_2
+Change Net Name : Old Net Name=NetIC?_2 New Net Name=NetIC6_2
+Change Net Name : Old Net Name=NetIC?_3 New Net Name=NetIC6_3
+Change Net Name : Old Net Name=NetIC?_6 New Net Name=NetIC6_6
+Added Pin To Net: NetName=NetC29_2 Pin=C29-2
+Added Pin To Net: NetName=NetC29_2 Pin=R18-2
+Added Net: Name=NetC29_2
+Added Pin To Net: NetName=NetD2_2 Pin=IC6-7
+Added Net: Name=NetD2_2
+Added Member To Class: ClassName=Sch_pwr_sys Member=Component C14 1µF
+Added Member To Class: ClassName=sch_sensors Member=Component C27 1µF
+Added Member To Class: ClassName=sch_sensors Member=Component C28 4.7µF
+Added Member To Class: ClassName=sch_sensors Member=Component C29 4.7µF
+Added Member To Class: ClassName=sch_sensors Member=Component C30 10µF
+Added Member To Class: ClassName=Sch_pwr_sys Member=Component IC5 MCP1700T-3302E_MAY
+Added Member To Class: ClassName=sch_sensors Member=Component R15 4.7k
+Added Member To Class: ClassName=sch_sensors Member=Component R16 10k
+Added Member To Class: ClassName=sch_sensors Member=Component R17 100k
+Added Member To Class: ClassName=sch_sensors Member=Component R18 4.7k
+Added Member To Class: ClassName=sch_sensors Member=Component R19 100k
+Added Member To Class: ClassName=sch_sensors Member=Component R20 100k
+Added Member To Class: ClassName=sch_sensors Member=Component R21 100k
+Added Member To Class: ClassName=sch_sensors Member=Component R22 100k
+Added Member To Class: ClassName=sch_sensors Member=Component R23 51.1k

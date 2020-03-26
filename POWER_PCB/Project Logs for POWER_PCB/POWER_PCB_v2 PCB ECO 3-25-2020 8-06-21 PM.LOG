@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=3.3V_PWR Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=Y1-1
+Removed Pin From Net: NetName=ADC_ALERT Pin=Y1-2
+Removed Pin From Net: NetName=GND Pin=Y1-3
+Removed Pin From Net: NetName=TP_AFE_OUT Pin=Y1-4
+Removed Pin From Net: NetName=TP_THERMISTOR Pin=Y1-5
+Removed Pin From Net: NetName=ANALOG_EXP_CONN Pin=Y1-6
+Removed Pin From Net: NetName=GND Pin=Y1-7
+Removed Pin From Net: NetName=3.3V_PWR Pin=Y1-8
+Removed Pin From Net: NetName=I2C1_SDA Pin=Y1-9
+Removed Pin From Net: NetName=I2C1_SCL Pin=Y1-10
+Removed Member From Class: ClassName=Sch_pwr_sys Member=C3
+Removed Member From Class: ClassName=Sch_pwr_sys Member=Y1
+Added Member To Class: ClassName=Sch_pwr_sys Member=Component C? 1µF
+Added Member To Class: ClassName=sch_sensors Member=Component C? 4.7µF
+Added Member To Class: ClassName=sch_sensors Member=Component C? 1µF
+Added Member To Class: ClassName=sch_sensors Member=Component C? 4.7µF
+Added Member To Class: ClassName=sch_sensors Member=Component R? 100k
+Added Member To Class: ClassName=sch_sensors Member=Component R? 4.7k
+Added Member To Class: ClassName=sch_sensors Member=Component R? 4.7k
+Added Member To Class: ClassName=sch_sensors Member=Component R? 51.1k
+Added Member To Class: ClassName=sch_sensors Member=Component R? 100k
+Added Member To Class: ClassName=sch_sensors Member=Component R? 10k
+Added Member To Class: ClassName=sch_sensors Member=Component R? 100k
+Added Member To Class: ClassName=sch_sensors Member=Component R? 100k
+Added Member To Class: ClassName=sch_sensors Member=Component R? 100k

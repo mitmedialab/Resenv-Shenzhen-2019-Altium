@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=MIC_EN Pin=J1-7
+Removed Pin From Net: NetName=IMU_INT Pin=J1-11
+Removed Pin From Net: NetName=LIGHT_INT Pin=J1-14
+Removed Pin From Net: NetName=VBAT Pin=J1-15
+Removed Member From Class: ClassName=logger_power Member=C30
+Removed Member From Class: ClassName=logger_power Member=C31
+Added Pin To Net: NetName=LIGHT_INT Pin=J1-7
+Added Pin To Net: NetName=VBAT Pin=J1-11
+Added Pin To Net: NetName=MIC_EN Pin=J1-14
+Added Pin To Net: NetName=IMU_INT Pin=J1-15
+Added Member To Class: ClassName=logger_mcu Member=Component C6 100pF
+Added Member To Class: ClassName=logger_mcu Member=Component C8 0.10µF
+Added Member To Class: ClassName=logger_mcu Member=Component C9 0.10µF
+Added Member To Class: ClassName=logger_power Member=Component C24 1µF
+Added Member To Class: ClassName=logger_power Member=Component C25 1µF
+Added Member To Class: ClassName=logger_power Member=Component C26 1µF
+Added Member To Class: ClassName=logger_power Member=Component C27 10000pF
+Added Member To Class: ClassName=logger_periph Member=Component C28 15pF
+Added Member To Class: ClassName=logger_periph Member=Component C29 15pF

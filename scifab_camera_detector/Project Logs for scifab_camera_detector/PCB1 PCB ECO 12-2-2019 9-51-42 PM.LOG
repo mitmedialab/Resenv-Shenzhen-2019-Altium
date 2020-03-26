@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=HP_FILTER_OUT_1 Pin=CN1-5
+Removed Pin From Net: NetName=HP_FILTER_OUT_2 Pin=CN3-4
+Removed Pin From Net: NetName=HP_FILTER_OUT_3 Pin=CN3-5
+Added Room: Name=Sheet1

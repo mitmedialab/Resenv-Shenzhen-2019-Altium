@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=LED1 Old Footprint=LEDC2012X90N New Footprint=LEDC1608X46N
+Change Component Comment : Designator=LED1 Old Comment=LTST-C171TBKT New Comment=SML-E12M8WT86
+Change component parameters: Designator = "LED1" ("LED1"); Footprint = "LEDC2012X90N"; UniqueID = "\ZCDGVISH" ("\ZCDGVISH")
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.rohm.com/datasheet/SML-E12M8W/sml-e1-e"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.46mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "ROHM Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "SML-E12M8WT86"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "755-SML-E12M8WT86"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=755-SML-E12M8WT86"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "6942799"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6942799"; VariantName = "[No Variations]"

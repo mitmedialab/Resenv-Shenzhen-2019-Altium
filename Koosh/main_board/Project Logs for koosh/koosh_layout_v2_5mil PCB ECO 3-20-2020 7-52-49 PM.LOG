@@ -1,0 +1,3 @@
+Added Component: Designator=P1(P70-5000045R)
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Class: Name=koosh_connector

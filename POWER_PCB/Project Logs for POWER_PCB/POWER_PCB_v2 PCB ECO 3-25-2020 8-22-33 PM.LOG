@@ -1,0 +1,26 @@
+Added Component: Designator=D2(SODFL1608X70N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.mouser.com/ds/2/258/1N4148X(SOD-523)-349105.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Micro Commercial Components (MCC)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "1N4148X-TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "833-1N4148X-TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=833-1N4148X-TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOTFL50P160X85-3N)
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/RE1C002ZPTL.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.85mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "ROHM Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "RE1C002ZPTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "755-RE1C002ZPTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=755-RE1C002ZPTL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1486960P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1486960P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MIC_ENV Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=MIC_EN Pin=Q2-1
+Added Pin To Net: NetName=3.3V_MIC Pin=Q2-2
+Added Pin To Net: NetName=3.3V_PWR Pin=Q2-3
+Added Pin To Net: NetName=3.3V_PWR Pin=R8-1
+Added Member To Class: ClassName=sch_sensors Member=Component D2 1N4148X-TP
+Added Member To Class: ClassName=sch_sensors Member=Component Q2 RE1C002ZPTL

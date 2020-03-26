@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=sch_sensors Member=IC5
+Added Member To Class: ClassName=sch_sensors Member=Component IC6 TLV9062IDSGT
+Added Member To Class: ClassName=sch_sensors Member=Component R8 1M

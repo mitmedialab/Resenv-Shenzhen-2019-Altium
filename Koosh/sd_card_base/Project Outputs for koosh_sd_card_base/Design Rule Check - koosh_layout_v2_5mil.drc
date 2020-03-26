@@ -1,0 +1,309 @@
+Protel Design System Design Rule Check
+PCB File : D:\OneDrive - Massachusetts Institute of Technology\altium\altium_designs\ProjectAttendance\Koosh\sd_card_base\koosh_layout_v2_5mil.PcbDoc
+Date     : 3/21/2020
+Time     : 8:09:27 PM
+
+Processing Rule : Clearance Constraint (Gap=6mil) (All),(All)
+   Violation between Clearance Constraint: (5.906mil < 6mil) Between Pad J3-8(432.139mil,404.923mil) on Bottom Layer 1 And Pad J3-G1(491.297mil,405.619mil) on Bottom Layer 1 
+Rule Violations :1
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=10mil) (Preferred=10mil) (All)
+   Violation between Width Constraint: Track (190mil,130mil)(235mil,175mil) on PWR Actual Width = 24mil, Target Width = 10mil
+   Violation between Width Constraint: Track (50mil,130mil)(190mil,130mil) on PWR Actual Width = 24mil, Target Width = 10mil
+Rule Violations :2
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (InNet('GND') or InNet('3.3V') or InNet('VBAT'))
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+   Violation between Hole To Hole Clearance Constraint: (9.937mil < 10mil) Between Pad J4-7(446.967mil,573.388mil) on Multi-Layer And Via (431.393mil,542.754mil) from Top Layer to Bottom Layer 1 
+   Violation between Hole To Hole Clearance Constraint: (Collision < 10mil) Between Via (370mil,190mil) from Top Layer to Bottom Layer 1 And Via (370mil,190mil) from Top Layer to Bottom Layer 1 Pad/Via Touching Holes
+Rule Violations :2
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+   Violation between Minimum Solder Mask Sliver Constraint: (5.76mil < 10mil) Between Pad AC1-1(275.394mil,386.417mil) on Top Layer And Pad AC1-2(307.362mil,383.937mil) on Top Layer [Top Solder] Mask Sliver [5.76mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad AC1-1(275.394mil,386.417mil) on Top Layer And Pad AC1-28(275.394mil,406.102mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad AC1-10(398.425mil,465.158mil) on Top Layer And Pad AC1-11(398.425mil,484.842mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad AC1-10(398.425mil,465.158mil) on Top Layer And Pad AC1-9(398.425mil,445.472mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad AC1-11(398.425mil,484.842mil) on Top Layer And Pad AC1-12(398.425mil,504.528mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad AC1-12(398.425mil,504.528mil) on Top Layer And Pad AC1-13(398.425mil,524.213mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad AC1-13(398.425mil,524.213mil) on Top Layer And Pad AC1-14(398.425mil,543.898mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (2.354mil < 10mil) Between Pad AC1-14(398.425mil,543.898mil) on Top Layer And Pad AC1-15(398.425mil,564.095mil) on Top Layer [Top Solder] Mask Sliver [2.354mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.799mil < 10mil) Between Pad AC1-14(398.425mil,543.898mil) on Top Layer And Pad AC1-16(366.417mil,566.063mil) on Top Layer [Top Solder] Mask Sliver [5.799mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.799mil < 10mil) Between Pad AC1-15(398.425mil,564.095mil) on Top Layer And Pad AC1-16(366.417mil,566.063mil) on Top Layer [Top Solder] Mask Sliver [5.799mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad AC1-16(366.417mil,566.063mil) on Top Layer And Pad AC1-17(346.732mil,566.063mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad AC1-17(346.732mil,566.063mil) on Top Layer And Pad AC1-18(327.047mil,566.063mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad AC1-18(327.047mil,566.063mil) on Top Layer And Pad AC1-19(307.362mil,566.063mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.76mil < 10mil) Between Pad AC1-19(307.362mil,566.063mil) on Top Layer And Pad AC1-20(275.394mil,566.063mil) on Top Layer [Top Solder] Mask Sliver [5.76mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.76mil < 10mil) Between Pad AC1-19(307.362mil,566.063mil) on Top Layer And Pad AC1-21(275.394mil,543.898mil) on Top Layer [Top Solder] Mask Sliver [5.76mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.76mil < 10mil) Between Pad AC1-2(307.362mil,383.937mil) on Top Layer And Pad AC1-28(275.394mil,406.102mil) on Top Layer [Top Solder] Mask Sliver [5.76mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad AC1-2(307.362mil,383.937mil) on Top Layer And Pad AC1-3(327.047mil,383.937mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (4.323mil < 10mil) Between Pad AC1-20(275.394mil,566.063mil) on Top Layer And Pad AC1-21(275.394mil,543.898mil) on Top Layer [Top Solder] Mask Sliver [4.323mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad AC1-21(275.394mil,543.898mil) on Top Layer And Pad AC1-22(275.394mil,524.213mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad AC1-22(275.394mil,524.213mil) on Top Layer And Pad AC1-23(275.394mil,504.528mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad AC1-23(275.394mil,504.528mil) on Top Layer And Pad AC1-24(275.394mil,484.842mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad AC1-24(275.394mil,484.842mil) on Top Layer And Pad AC1-25(275.394mil,465.158mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad AC1-25(275.394mil,465.158mil) on Top Layer And Pad AC1-26(275.394mil,445.472mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad AC1-26(275.394mil,445.472mil) on Top Layer And Pad AC1-27(275.394mil,425.787mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad AC1-27(275.394mil,425.787mil) on Top Layer And Pad AC1-28(275.394mil,406.102mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad AC1-3(327.047mil,383.937mil) on Top Layer And Pad AC1-4(346.732mil,383.937mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad AC1-4(346.732mil,383.937mil) on Top Layer And Pad AC1-5(366.417mil,383.937mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.799mil < 10mil) Between Pad AC1-5(366.417mil,383.937mil) on Top Layer And Pad AC1-6(398.425mil,383.937mil) on Top Layer [Top Solder] Mask Sliver [5.799mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.799mil < 10mil) Between Pad AC1-5(366.417mil,383.937mil) on Top Layer And Pad AC1-7(398.425mil,406.102mil) on Top Layer [Top Solder] Mask Sliver [5.799mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (4.323mil < 10mil) Between Pad AC1-6(398.425mil,383.937mil) on Top Layer And Pad AC1-7(398.425mil,406.102mil) on Top Layer [Top Solder] Mask Sliver [4.323mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (8.083mil < 10mil) Between Pad AC1-6(398.425mil,383.937mil) on Top Layer And Pad C3-2(440mil,396.89mil) on Top Layer [Top Solder] Mask Sliver [8.083mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad AC1-7(398.425mil,406.102mil) on Top Layer And Pad AC1-8(398.425mil,425.787mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (8.397mil < 10mil) Between Pad AC1-7(398.425mil,406.102mil) on Top Layer And Pad C3-1(440mil,433.11mil) on Top Layer [Top Solder] Mask Sliver [8.397mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (8.083mil < 10mil) Between Pad AC1-7(398.425mil,406.102mil) on Top Layer And Pad C3-2(440mil,396.89mil) on Top Layer [Top Solder] Mask Sliver [8.083mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad AC1-8(398.425mil,425.787mil) on Top Layer And Pad AC1-9(398.425mil,445.472mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (8.083mil < 10mil) Between Pad AC1-8(398.425mil,425.787mil) on Top Layer And Pad C3-1(440mil,433.11mil) on Top Layer [Top Solder] Mask Sliver [8.083mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (9.093mil < 10mil) Between Pad AC1-8(398.425mil,425.787mil) on Top Layer And Pad C3-2(440mil,396.89mil) on Top Layer [Top Solder] Mask Sliver [9.093mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (8.083mil < 10mil) Between Pad AC1-9(398.425mil,445.472mil) on Top Layer And Pad C3-1(440mil,433.11mil) on Top Layer [Top Solder] Mask Sliver [8.083mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (4.598mil < 10mil) Between Pad C1-1(293.11mil,340mil) on Top Layer And Pad C1-2(256.89mil,340mil) on Top Layer [Top Solder] Mask Sliver [4.598mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.591mil < 10mil) Between Pad C1-1(293.11mil,340mil) on Top Layer And Pad C2-1(293.11mil,300mil) on Top Layer [Top Solder] Mask Sliver [7.591mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (8.875mil < 10mil) Between Pad C1-1(293.11mil,340mil) on Top Layer And Pad C2-2(256.89mil,300mil) on Top Layer [Top Solder] Mask Sliver [8.875mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (8.875mil < 10mil) Between Pad C1-2(256.89mil,340mil) on Top Layer And Pad C2-1(293.11mil,300mil) on Top Layer [Top Solder] Mask Sliver [8.875mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.591mil < 10mil) Between Pad C1-2(256.89mil,340mil) on Top Layer And Pad C2-2(256.89mil,300mil) on Top Layer [Top Solder] Mask Sliver [7.591mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.646mil < 10mil) Between Pad C1-2(256.89mil,340mil) on Top Layer And Pad Y1-1(195mil,355.787mil) on Top Layer [Top Solder] Mask Sliver [6.646mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (4.598mil < 10mil) Between Pad C2-1(293.11mil,300mil) on Top Layer And Pad C2-2(256.89mil,300mil) on Top Layer [Top Solder] Mask Sliver [4.598mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (4.598mil < 10mil) Between Pad C3-1(440mil,433.11mil) on Top Layer And Pad C3-2(440mil,396.89mil) on Top Layer [Top Solder] Mask Sliver [4.598mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (8.252mil < 10mil) Between Pad C3-1(440mil,433.11mil) on Top Layer And Pad R4-2(450mil,472mil) on Top Layer [Top Solder] Mask Sliver [8.252mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (4.598mil < 10mil) Between Pad C4-1(198.11mil,285mil) on Top Layer And Pad C4-2(161.89mil,285mil) on Top Layer [Top Solder] Mask Sliver [4.598mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (9.244mil < 10mil) Between Pad C4-1(198.11mil,285mil) on Top Layer And Pad J2-19(221.417mil,231.929mil) on Top Layer [Top Solder] Mask Sliver [9.244mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (4.598mil < 10mil) Between Pad C5-1(130mil,408.11mil) on Top Layer And Pad C5-2(130mil,371.89mil) on Top Layer [Top Solder] Mask Sliver [4.598mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (9.362mil < 10mil) Between Pad C5-2(130mil,371.89mil) on Top Layer And Pad Y1-1(195mil,355.787mil) on Top Layer [Top Solder] Mask Sliver [9.362mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.347mil < 10mil) Between Pad C6-1(485mil,397mil) on Top Layer And Pad R5-2(520mil,397mil) on Top Layer [Top Solder] Mask Sliver [5.347mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (2.425mil < 10mil) Between Pad C6-2(485mil,443mil) on Top Layer And Pad DS1-1(505.472mil,480mil) on Top Layer [Top Solder] Mask Sliver [2.425mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.347mil < 10mil) Between Pad C6-2(485mil,443mil) on Top Layer And Pad R4-2(450mil,472mil) on Top Layer [Top Solder] Mask Sliver [5.347mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.347mil < 10mil) Between Pad C6-2(485mil,443mil) on Top Layer And Pad R5-1(520mil,443mil) on Top Layer [Top Solder] Mask Sliver [5.347mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.441mil < 10mil) Between Pad C7-1(398mil,305mil) on Top Layer And Pad IC1-2(440mil,325mil) on Top Layer [Top Solder] Mask Sliver [6.441mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.441mil < 10mil) Between Pad C7-1(398mil,305mil) on Top Layer And Pad IC1-3(440mil,299.409mil) on Top Layer [Top Solder] Mask Sliver [6.441mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (8.447mil < 10mil) Between Pad C7-1(398mil,305mil) on Top Layer And Pad IC1-4(440mil,273.819mil) on Top Layer [Top Solder] Mask Sliver [8.447mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.347mil < 10mil) Between Pad C7-1(398mil,305mil) on Top Layer And Pad R1-1(398mil,340mil) on Top Layer [Top Solder] Mask Sliver [5.347mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.347mil < 10mil) Between Pad C7-2(352mil,305mil) on Top Layer And Pad R1-2(352mil,340mil) on Top Layer [Top Solder] Mask Sliver [5.347mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (2.425mil < 10mil) Between Pad DS1-1(505.472mil,480mil) on Top Layer And Pad R5-1(520mil,443mil) on Top Layer [Top Solder] Mask Sliver [2.425mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 10mil) Between Pad IC1-1(440mil,350.591mil) on Top Layer And Pad IC1-2(440mil,325mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.441mil < 10mil) Between Pad IC1-1(440mil,350.591mil) on Top Layer And Pad R1-1(398mil,340mil) on Top Layer [Top Solder] Mask Sliver [6.441mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 10mil) Between Pad IC1-2(440mil,325mil) on Top Layer And Pad IC1-3(440mil,299.409mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.441mil < 10mil) Between Pad IC1-2(440mil,325mil) on Top Layer And Pad R1-1(398mil,340mil) on Top Layer [Top Solder] Mask Sliver [6.441mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 10mil) Between Pad IC1-3(440mil,299.409mil) on Top Layer And Pad IC1-4(440mil,273.819mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 10mil) Between Pad IC1-5(554.173mil,273.819mil) on Top Layer And Pad IC1-6(554.173mil,299.409mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 10mil) Between Pad IC1-6(554.173mil,299.409mil) on Top Layer And Pad IC1-7(554.173mil,325mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.811mil < 10mil) Between Pad IC1-7(554.173mil,325mil) on Top Layer And Pad IC1-8(554.173mil,350.591mil) on Top Layer [Top Solder] Mask Sliver [3.811mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad IC2-1(42.598mil,210.787mil) on Top Layer And Pad IC2-2(80mil,210.787mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad IC2-2(80mil,210.787mil) on Top Layer And Pad IC2-3(117.402mil,210.787mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad IC2-4(117.402mil,309.213mil) on Top Layer And Pad IC2-5(80mil,309.213mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad IC2-5(80mil,309.213mil) on Top Layer And Pad IC2-6(42.598mil,309.213mil) on Top Layer [Top Solder] Mask Sliver [5.78mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad J1-1(213.095mil,312.747mil) on Bottom Layer 1 And Pad J1-2(231.19mil,330.842mil) on Bottom Layer 1 [Bottom Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad J1-2(231.19mil,330.842mil) on Bottom Layer 1 And Pad J1-3(249.286mil,348.938mil) on Bottom Layer 1 [Bottom Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad J1-3(249.286mil,348.938mil) on Bottom Layer 1 And Pad J1-4(267.381mil,367.033mil) on Bottom Layer 1 [Bottom Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad J1-4(267.381mil,367.033mil) on Bottom Layer 1 And Pad J1-5(285.476mil,385.128mil) on Bottom Layer 1 [Bottom Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.751mil < 10mil) Between Pad J1-8(63.462mil,312.051mil) on Bottom Layer 1 And Via (0mil,260mil) from Top Layer to Bottom Layer 1 [Bottom Solder] Mask Sliver [6.751mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad J2-1(398.583mil,231.929mil) on Top Layer And Pad J2-3(378.898mil,231.929mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad J2-10(319.842mil,98.071mil) on Top Layer And Pad J2-12(300.158mil,98.071mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad J2-10(319.842mil,98.071mil) on Top Layer And Pad J2-8(339.528mil,98.071mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.622mil < 10mil) Between Pad J2-10(319.842mil,98.071mil) on Top Layer And Pad R3-1(343mil,55mil) on Top Layer [Top Solder] Mask Sliver [0.622mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.622mil < 10mil) Between Pad J2-10(319.842mil,98.071mil) on Top Layer And Pad R3-2(297mil,55mil) on Top Layer [Top Solder] Mask Sliver [0.622mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad J2-11(300.158mil,231.929mil) on Top Layer And Pad J2-13(280.472mil,231.929mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad J2-11(300.158mil,231.929mil) on Top Layer And Pad J2-9(319.842mil,231.929mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad J2-12(300.158mil,98.071mil) on Top Layer And Pad J2-14(280.472mil,98.071mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.622mil < 10mil) Between Pad J2-12(300.158mil,98.071mil) on Top Layer And Pad R3-2(297mil,55mil) on Top Layer [Top Solder] Mask Sliver [0.622mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad J2-13(280.472mil,231.929mil) on Top Layer And Pad J2-15(260.787mil,231.929mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad J2-14(280.472mil,98.071mil) on Top Layer And Pad J2-16(260.787mil,98.071mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.622mil < 10mil) Between Pad J2-14(280.472mil,98.071mil) on Top Layer And Pad R3-2(297mil,55mil) on Top Layer [Top Solder] Mask Sliver [0.622mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad J2-15(260.787mil,231.929mil) on Top Layer And Pad J2-17(241.102mil,231.929mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad J2-16(260.787mil,98.071mil) on Top Layer And Pad J2-18(241.102mil,98.071mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad J2-17(241.102mil,231.929mil) on Top Layer And Pad J2-19(221.417mil,231.929mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad J2-18(241.102mil,98.071mil) on Top Layer And Pad J2-20(221.417mil,98.071mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad J2-2(398.583mil,98.071mil) on Top Layer And Pad J2-4(378.898mil,98.071mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad J2-3(378.898mil,231.929mil) on Top Layer And Pad J2-5(359.213mil,231.929mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.449mil < 10mil) Between Pad J2-3(378.898mil,231.929mil) on Top Layer And Via (370mil,190mil) from Top Layer to Bottom Layer 1 [Top Solder] Mask Sliver [1.449mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad J2-4(378.898mil,98.071mil) on Top Layer And Pad J2-6(359.213mil,98.071mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad J2-5(359.213mil,231.929mil) on Top Layer And Pad J2-7(339.528mil,231.929mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.57mil < 10mil) Between Pad J2-5(359.213mil,231.929mil) on Top Layer And Via (370mil,190mil) from Top Layer to Bottom Layer 1 [Top Solder] Mask Sliver [1.57mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad J2-6(359.213mil,98.071mil) on Top Layer And Pad J2-8(339.528mil,98.071mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.622mil < 10mil) Between Pad J2-6(359.213mil,98.071mil) on Top Layer And Pad R3-1(343mil,55mil) on Top Layer [Top Solder] Mask Sliver [0.622mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (1.843mil < 10mil) Between Pad J2-7(339.528mil,231.929mil) on Top Layer And Pad J2-9(319.842mil,231.929mil) on Top Layer [Top Solder] Mask Sliver [1.843mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (0.622mil < 10mil) Between Pad J2-8(339.528mil,98.071mil) on Top Layer And Pad R3-1(343mil,55mil) on Top Layer [Top Solder] Mask Sliver [0.622mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.748mil < 10mil) Between Pad J3-1(217.78mil,190.564mil) on Bottom Layer 1 And Pad J3-2(248.403mil,221.187mil) on Bottom Layer 1 [Bottom Solder] Mask Sliver [7.748mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.748mil < 10mil) Between Pad J3-2(248.403mil,221.187mil) on Bottom Layer 1 And Pad J3-3(279.026mil,251.81mil) on Bottom Layer 1 [Bottom Solder] Mask Sliver [7.748mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.748mil < 10mil) Between Pad J3-3(279.026mil,251.81mil) on Bottom Layer 1 And Pad J3-4(309.648mil,282.432mil) on Bottom Layer 1 [Bottom Solder] Mask Sliver [7.748mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.748mil < 10mil) Between Pad J3-4(309.648mil,282.432mil) on Bottom Layer 1 And Pad J3-5(340.271mil,313.055mil) on Bottom Layer 1 [Bottom Solder] Mask Sliver [7.748mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.748mil < 10mil) Between Pad J3-5(340.271mil,313.055mil) on Bottom Layer 1 And Pad J3-6(370.894mil,343.678mil) on Bottom Layer 1 [Bottom Solder] Mask Sliver [7.748mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.748mil < 10mil) Between Pad J3-6(370.894mil,343.678mil) on Bottom Layer 1 And Pad J3-7(401.516mil,374.3mil) on Bottom Layer 1 [Bottom Solder] Mask Sliver [7.748mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.748mil < 10mil) Between Pad J3-7(401.516mil,374.3mil) on Bottom Layer 1 And Pad J3-8(432.139mil,404.923mil) on Bottom Layer 1 [Bottom Solder] Mask Sliver [7.748mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (8.892mil < 10mil) Between Pad J3-G3(213.326mil,103.15mil) on Bottom Layer 1 And Via (185mil,25mil) from Top Layer to Bottom Layer 1 [Bottom Solder] Mask Sliver [8.892mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (5.78mil < 10mil) Between Pad J3-G4(239.773mil,65.568mil) on Bottom Layer 1 And Pad J3-G5(277.355mil,39.121mil) on Bottom Layer 1 [Bottom Solder] Mask Sliver [5.78mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (8.235mil < 10mil) Between Pad J3-G4(239.773mil,65.568mil) on Bottom Layer 1 And Via (185mil,25mil) from Top Layer to Bottom Layer 1 [Bottom Solder] Mask Sliver [8.235mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (7.676mil < 10mil) Between Pad J3-G5(277.355mil,39.121mil) on Bottom Layer 1 And Via (330mil,0mil) from Top Layer to Bottom Layer 1 [Bottom Solder] Mask Sliver [7.676mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (4.799mil < 10mil) Between Pad Q1-1(510.315mil,170.394mil) on Top Layer And Via (535mil,115mil) from Top Layer to Bottom Layer 1 [Top Solder] Mask Sliver [4.799mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (3.221mil < 10mil) Between Pad Q1-2(549.685mil,170.394mil) on Top Layer And Via (535mil,115mil) from Top Layer to Bottom Layer 1 [Top Solder] Mask Sliver [3.221mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (4.677mil < 10mil) Between Pad R3-1(343mil,55mil) on Top Layer And Via (330mil,0mil) from Top Layer to Bottom Layer 1 [Top Solder] Mask Sliver [4.677mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (8.597mil < 10mil) Between Pad R3-2(297mil,55mil) on Top Layer And Via (330mil,0mil) from Top Layer to Bottom Layer 1 [Top Solder] Mask Sliver [8.597mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (9.631mil < 10mil) Between Via (410mil,20mil) from Top Layer to Bottom Layer 1 And Via (480mil,60mil) from Top Layer to Bottom Layer 1 [Top Solder] Mask Sliver [9.631mil] / [Bottom Solder] Mask Sliver [9.631mil]
+   Violation between Minimum Solder Mask Sliver Constraint: (6.79mil < 10mil) Between Via (480mil,60mil) from Top Layer to Bottom Layer 1 And Via (535mil,115mil) from Top Layer to Bottom Layer 1 [Top Solder] Mask Sliver [6.79mil] / [Bottom Solder] Mask Sliver [6.79mil]
+Rule Violations :121
+
+Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Arc (163.912mil,241.648mil) on Bottom Overlay And Pad J1-6(158.114mil,264.725mil) on Bottom Layer 1 [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Arc (163.912mil,241.648mil) on Bottom Overlay And Pad J1-6(158.114mil,264.725mil) on Bottom Layer 1 [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.937mil < 10mil) Between Arc (237.454mil,288.388mil) on Bottom Overlay And Pad J1-1(213.095mil,312.747mil) on Bottom Layer 1 [Bottom Overlay] to [Bottom Solder] clearance [3.937mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.906mil < 10mil) Between Arc (237.454mil,288.388mil) on Bottom Overlay And Pad J1-1(213.095mil,312.747mil) on Bottom Layer 1 [Bottom Overlay] to [Bottom Solder] clearance [5.906mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.876mil < 10mil) Between Arc (250.276mil,386.417mil) on Top Overlay And Pad AC1-1(275.394mil,386.417mil) on Top Layer [Top Overlay] to [Top Solder] clearance [8.876mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.862mil < 10mil) Between Arc (250.276mil,386.417mil) on Top Overlay And Pad AC1-1(275.394mil,386.417mil) on Top Layer [Top Overlay] to [Top Solder] clearance [9.862mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (1.86mil < 10mil) Between Arc (423.268mil,377.165mil) on Top Overlay And Pad AC1-6(398.425mil,383.937mil) on Top Layer [Top Overlay] to [Top Solder] clearance [1.86mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Arc (423.268mil,377.165mil) on Top Overlay And Pad C3-2(440mil,396.89mil) on Top Layer [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.843mil < 10mil) Between Arc (423.268mil,377.165mil) on Top Overlay And Pad IC1-1(440mil,350.591mil) on Top Layer [Top Overlay] to [Top Solder] clearance [9.843mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.89mil < 10mil) Between Pad AC1-1(275.394mil,386.417mil) on Top Layer And Track (262.087mil,372.638mil)(293.583mil,372.638mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6.89mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.079mil < 10mil) Between Pad AC1-12(398.425mil,504.528mil) on Top Layer And Text "AC1" (305.011mil,505.005mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.079mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.378mil < 10mil) Between Pad AC1-15(398.425mil,564.095mil) on Top Layer And Track (380.197mil,577.362mil)(411.693mil,577.362mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6.378mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.89mil < 10mil) Between Pad AC1-16(366.417mil,566.063mil) on Top Layer And Track (380.197mil,577.362mil)(411.693mil,577.362mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6.89mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.89mil < 10mil) Between Pad AC1-19(307.362mil,566.063mil) on Top Layer And Track (262.087mil,577.362mil)(293.583mil,577.362mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6.89mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.89mil < 10mil) Between Pad AC1-2(307.362mil,383.937mil) on Top Layer And Track (262.087mil,372.638mil)(293.583mil,372.638mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6.89mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.41mil < 10mil) Between Pad AC1-20(275.394mil,566.063mil) on Top Layer And Track (262.087mil,577.362mil)(293.583mil,577.362mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.41mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.89mil < 10mil) Between Pad AC1-5(366.417mil,383.937mil) on Top Layer And Track (380.197mil,372.638mil)(411.693mil,372.638mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6.89mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.41mil < 10mil) Between Pad AC1-6(398.425mil,383.937mil) on Top Layer And Track (380.197mil,372.638mil)(411.693mil,372.638mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.41mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.8mil < 10mil) Between Pad C4-1(198.11mil,285mil) on Top Layer And Text "C4" (150.008mil,230.005mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.8mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.8mil < 10mil) Between Pad C4-2(161.89mil,285mil) on Top Layer And Text "C4" (150.008mil,230.005mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.8mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.621mil < 10mil) Between Pad C4-2(161.89mil,285mil) on Top Layer And Track (137.559mil,248.189mil)(137.559mil,271.811mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.621mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.621mil < 10mil) Between Pad C4-2(161.89mil,285mil) on Top Layer And Track (22.441mil,271.811mil)(137.559mil,271.811mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.621mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.8mil < 10mil) Between Pad C5-2(130mil,371.89mil) on Top Layer And Text "C5" (109.995mil,340.008mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.8mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.167mil < 10mil) Between Pad C6-1(485mil,397mil) on Top Layer And Track (475mil,419.994mil)(495mil,419.994mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.167mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.208mil < 10mil) Between Pad C6-2(485mil,443mil) on Top Layer And Track (475mil,419.994mil)(495mil,419.994mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.208mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.195mil < 10mil) Between Pad C7-1(398mil,305mil) on Top Layer And Track (375.006mil,295mil)(375.006mil,315mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.195mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.18mil < 10mil) Between Pad C7-2(352mil,305mil) on Top Layer And Track (375.006mil,295mil)(375.006mil,315mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [7.18mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.257mil < 10mil) Between Pad DS1-1(505.472mil,480mil) on Top Layer And Text "DS1" (495.011mil,505.005mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6.257mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.257mil < 10mil) Between Pad DS1-2(564.528mil,480mil) on Top Layer And Text "DS1" (495.011mil,505.005mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6.257mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.934mil < 10mil) Between Pad IC1-4(440mil,273.819mil) on Top Layer And Text "IC1" (447.51mil,225.005mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [8.934mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (3.978mil < 10mil) Between Pad IC1-5(554.173mil,273.819mil) on Top Layer And Text "Q1" (493.441mil,275mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [3.978mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.106mil < 10mil) Between Pad IC1-6(554.173mil,299.409mil) on Top Layer And Text "Q1" (493.441mil,275mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6.106mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.981mil < 10mil) Between Pad IC1-9(497.087mil,312.205mil) on Top Layer And Text "IC1" (447.51mil,225.005mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.981mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad IC1-9(497.087mil,312.205mil) on Top Layer And Text "Q1" (493.441mil,275mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.842mil < 10mil) Between Pad IC2-1(42.598mil,210.787mil) on Top Layer And Track (17.008mil,187.165mil)(17.008mil,234.409mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.842mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.843mil < 10mil) Between Pad IC2-1(42.598mil,210.787mil) on Top Layer And Track (22.441mil,248.189mil)(137.559mil,248.189mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.843mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.679mil < 10mil) Between Pad IC2-2(80mil,210.787mil) on Top Layer And Text "IC2" (124.995mil,102.512mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.679mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.843mil < 10mil) Between Pad IC2-2(80mil,210.787mil) on Top Layer And Track (22.441mil,248.189mil)(137.559mil,248.189mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.843mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (6.695mil < 10mil) Between Pad IC2-3(117.402mil,210.787mil) on Top Layer And Text "IC2" (124.995mil,102.512mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [6.695mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.591mil < 10mil) Between Pad IC2-3(117.402mil,210.787mil) on Top Layer And Track (136.772mil,80.354mil)(136.772mil,249.646mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.591mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.843mil < 10mil) Between Pad IC2-3(117.402mil,210.787mil) on Top Layer And Track (22.441mil,248.189mil)(137.559mil,248.189mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.843mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.198mil < 10mil) Between Pad IC2-4(117.402mil,309.213mil) on Top Layer And Text "C5" (109.995mil,340.008mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.198mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.843mil < 10mil) Between Pad IC2-4(117.402mil,309.213mil) on Top Layer And Track (22.441mil,271.811mil)(137.559mil,271.811mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.843mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.174mil < 10mil) Between Pad IC2-5(80mil,309.213mil) on Top Layer And Text "C5" (109.995mil,340.008mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.174mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.843mil < 10mil) Between Pad IC2-5(80mil,309.213mil) on Top Layer And Track (22.441mil,271.811mil)(137.559mil,271.811mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.843mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.843mil < 10mil) Between Pad IC2-6(42.598mil,309.213mil) on Top Layer And Track (22.441mil,271.811mil)(137.559mil,271.811mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.843mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.591mil < 10mil) Between Pad J1-1(213.095mil,312.747mil) on Bottom Layer 1 And Track (121.458mil,167.179mil)(438.82mil,484.542mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [9.591mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.906mil < 10mil) Between Pad J1-11(286.172mil,534.762mil) on Bottom Layer 1 And Track (219.359mil,587.656mil)(247.198mil,559.817mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [5.906mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad J1-11(286.172mil,534.762mil) on Bottom Layer 1 And Track (294.939mil,555.711mil)(464.645mil,725.416mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad J1-11(286.172mil,534.762mil) on Bottom Layer 1 And Track (294.939mil,555.711mil)(570.711mil,279.939mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.591mil < 10mil) Between Pad J1-2(231.19mil,330.842mil) on Bottom Layer 1 And Track (121.458mil,167.179mil)(438.82mil,484.542mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [9.591mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.591mil < 10mil) Between Pad J1-3(249.286mil,348.938mil) on Bottom Layer 1 And Track (121.458mil,167.179mil)(438.82mil,484.542mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [9.591mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.591mil < 10mil) Between Pad J1-4(267.381mil,367.033mil) on Bottom Layer 1 And Track (121.458mil,167.179mil)(438.82mil,484.542mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [9.591mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.591mil < 10mil) Between Pad J1-5(285.476mil,385.128mil) on Bottom Layer 1 And Track (121.458mil,167.179mil)(438.82mil,484.542mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [9.591mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.591mil < 10mil) Between Pad J1-6(158.114mil,264.725mil) on Bottom Layer 1 And Track (121.458mil,167.179mil)(438.82mil,484.542mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [9.591mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.591mil < 10mil) Between Pad J1-7(333.498mil,440.11mil) on Bottom Layer 1 And Track (121.458mil,167.179mil)(438.82mil,484.542mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [9.591mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.201mil < 10mil) Between Pad J1-7(333.498mil,440.11mil) on Bottom Layer 1 And Track (294.939mil,555.711mil)(570.711mil,279.939mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [9.201mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.906mil < 10mil) Between Pad J1-8(63.462mil,312.051mil) on Bottom Layer 1 And Track (10.568mil,378.865mil)(38.407mil,351.026mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [5.906mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (Collision < 10mil) Between Pad J3-8(432.139mil,404.923mil) on Bottom Layer 1 And Track (294.939mil,555.711mil)(570.711mil,279.939mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [0mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.109mil < 10mil) Between Pad J3-G1(491.297mil,405.619mil) on Bottom Layer 1 And Track (294.939mil,555.711mil)(570.711mil,279.939mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [8.109mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.109mil < 10mil) Between Pad J3-G2(563.399mil,333.517mil) on Bottom Layer 1 And Track (294.939mil,555.711mil)(570.711mil,279.939mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [8.109mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (7.725mil < 10mil) Between Pad J3-G2(563.399mil,333.517mil) on Bottom Layer 1 And Track (531.385mil,391.978mil)(553.656mil,369.707mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [7.725mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (8.866mil < 10mil) Between Pad J3-G3(213.326mil,103.15mil) on Bottom Layer 1 And Text "J3" (204.992mil,140.005mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [8.866mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.906mil < 10mil) Between Pad Q1-1(510.315mil,170.394mil) on Top Layer And Track (491.024mil,157.677mil)(491.024mil,183.071mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.906mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.823mil < 10mil) Between Pad Q1-1(510.315mil,170.394mil) on Top Layer And Track (498.504mil,196.85mil)(561.496mil,196.85mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.823mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.823mil < 10mil) Between Pad Q1-2(549.685mil,170.394mil) on Top Layer And Track (498.504mil,196.85mil)(561.496mil,196.85mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.823mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (5.062mil < 10mil) Between Pad Q1-3(530mil,229.606mil) on Top Layer And Text "IC1" (447.51mil,225.005mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [5.062mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (9.823mil < 10mil) Between Pad Q1-3(530mil,229.606mil) on Top Layer And Track (498.504mil,203.15mil)(561.496mil,203.15mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [9.823mil]
+   Violation between Silk To Solder Mask Clearance Constraint: (4.324mil < 10mil) Between Pad R3-2(297mil,55mil) on Top Layer And Text "R3" (235.008mil,10.005mil) on Top Overlay [Top Overlay] to [Top Solder] clearance [4.324mil]
+Rule Violations :69
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "C4" (150.008mil,230.005mil) on Top Overlay And Track (136.772mil,249.646mil)(191.89mil,249.646mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (8.268mil < 10mil) Between Text "C4" (150.008mil,230.005mil) on Top Overlay And Track (136.772mil,80.354mil)(136.772mil,249.646mil) on Top Overlay Silk Text to Silk Clearance [8.268mil]
+   Violation between Silk To Silk Clearance Constraint: (5.512mil < 10mil) Between Text "C4" (150.008mil,230.005mil) on Top Overlay And Track (137.559mil,248.189mil)(137.559mil,271.811mil) on Top Overlay Silk Text to Silk Clearance [5.512mil]
+   Violation between Silk To Silk Clearance Constraint: (5.512mil < 10mil) Between Text "C4" (150.008mil,230.005mil) on Top Overlay And Track (22.441mil,248.189mil)(137.559mil,248.189mil) on Top Overlay Silk Text to Silk Clearance [5.512mil]
+   Violation between Silk To Silk Clearance Constraint: (8.562mil < 10mil) Between Text "CHWALEK -- KOOSH RESENV" (600mil,240mil) on Bottom Overlay And Track (294.939mil,555.711mil)(570.711mil,279.939mil) on Bottom Overlay Silk Text to Silk Clearance [8.562mil]
+   Violation between Silk To Silk Clearance Constraint: (7.366mil < 10mil) Between Text "CHWALEK -- KOOSH RESENV" (600mil,240mil) on Bottom Overlay And Track (320.505mil,62.784mil)(543.216mil,285.495mil) on Bottom Overlay Silk Text to Silk Clearance [7.366mil]
+   Violation between Silk To Silk Clearance Constraint: (8.562mil < 10mil) Between Text "CHWALEK -- KOOSH RESENV" (600mil,240mil) on Bottom Overlay And Track (570.711mil,279.939mil)(740.416mil,449.645mil) on Bottom Overlay Silk Text to Silk Clearance [8.562mil]
+   Violation between Silk To Silk Clearance Constraint: (5.183mil < 10mil) Between Text "DS1" (495.011mil,505.005mil) on Top Overlay And Text "R4" (470.008mil,545.005mil) on Top Overlay Silk Text to Silk Clearance [5.183mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "IC1" (447.51mil,225.005mil) on Top Overlay And Track (428.11mil,249.646mil)(483.228mil,249.646mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "IC1" (447.51mil,225.005mil) on Top Overlay And Track (483.228mil,80.354mil)(483.228mil,249.646mil) on Top Overlay Silk Text to Silk Clearance [0mil]
+   Violation between Silk To Silk Clearance Constraint: (6.808mil < 10mil) Between Text "IC2" (124.995mil,102.512mil) on Top Overlay And Track (136.772mil,80.354mil)(136.772mil,249.646mil) on Top Overlay Silk Text to Silk Clearance [6.808mil]
+   Violation between Silk To Silk Clearance Constraint: (3.074mil < 10mil) Between Text "J3" (204.992mil,140.005mil) on Bottom Overlay And Track (121.458mil,167.179mil)(169.48mil,119.157mil) on Bottom Overlay Silk Text to Silk Clearance [3.074mil]
+   Violation between Silk To Silk Clearance Constraint: (4.566mil < 10mil) Between Text "Y1" (175.006mil,390.005mil) on Top Overlay And Track (165.472mil,389.252mil)(165.472mil,420.748mil) on Top Overlay Silk Text to Silk Clearance [4.566mil]
+   Violation between Silk To Silk Clearance Constraint: (4.566mil < 10mil) Between Text "Y1" (175.006mil,390.005mil) on Top Overlay And Track (224.528mil,389.252mil)(224.528mil,420.748mil) on Top Overlay Silk Text to Silk Clearance [4.566mil]
+Rule Violations :14
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+   Violation between Net Antennae: Track (379.344mil,245.86mil)(379.344mil,256.778mil) on PWR 
+   Violation between Net Antennae: Via (0mil,260mil) from Top Layer to Bottom Layer 1 
+   Violation between Net Antennae: Via (185mil,25mil) from Top Layer to Bottom Layer 1 
+   Violation between Net Antennae: Via (410mil,20mil) from Top Layer to Bottom Layer 1 
+   Violation between Net Antennae: Via (480mil,60mil) from Top Layer to Bottom Layer 1 
+   Violation between Net Antennae: Via (50mil,130mil) from Top Layer to Bottom Layer 1 
+   Violation between Net Antennae: Via (535mil,115mil) from Top Layer to Bottom Layer 1 
+Rule Violations :7
+
+Processing Rule : Board Clearance Constraint (Gap=0mil) (All)
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 5mil) Between Arc (577.531mil,632.128mil) on Bottom Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 5mil) Between Arc (577.531mil,632.128mil) on Bottom Overlay And Board Edge 
+   Violation between Board Outline Clearance(Outline Edge): (3.89mil < 5mil) Between Board Edge And Pad J3-G2(563.399mil,333.517mil) on Bottom Layer 1 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 5mil) Between Board Edge And Pad J4-9(616.673mil,460.251mil) on Multi-Layer 
+   Violation between Board Outline Clearance(Outline Edge): (4.643mil < 5mil) Between Board Edge And Pad Q1-2(549.685mil,170.394mil) on Top Layer 
+   Violation between Board Outline Clearance(Outline Edge): (4.148mil < 5mil) Between Board Edge And Pad Y1-2(195mil,454.213mil) on Top Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 5mil) Between Board Edge And Polygon Region (24 hole(s)) GND 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 5mil) Between Board Edge And Text "3/19/2020" (412.438mil,938.142mil) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 5mil) Between Board Edge And Text "C5" (109.995mil,340.008mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 5mil) Between Board Edge And Text "CHWALEK -- KOOSH RESENV" (600mil,240mil) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 5mil) Between Board Edge And Text "DS1" (495.011mil,505.005mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 5mil) Between Board Edge And Text "R3" (235.008mil,10.005mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 5mil) Between Board Edge And Text "R4" (470.008mil,545.005mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 5mil) Between Board Edge And Text "ResEnv" (445mil,1095mil) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 5mil) Between Board Edge And Track (10.568mil,378.865mil)(219.359mil,587.656mil) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 5mil) Between Board Edge And Track (10.568mil,378.865mil)(38.407mil,351.026mil) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 5mil) Between Board Edge And Track (105mil,70mil)(105mil,75mil) on Bottom Layer 1 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 5mil) Between Board Edge And Track (105mil,75mil)(175mil,145mil) on Bottom Layer 1 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 5mil) Between Board Edge And Track (17.008mil,187.165mil)(17.008mil,234.409mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 5mil) Between Board Edge And Track (219.359mil,587.656mil)(247.198mil,559.817mil) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (1.511mil < 5mil) Between Board Edge And Track (262.087mil,577.362mil)(293.583mil,577.362mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 5mil) Between Board Edge And Track (294.939mil,555.711mil)(464.645mil,725.416mil) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 5mil) Between Board Edge And Track (410mil,20mil)(410mil,74.851mil) on Top Layer 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 5mil) Between Board Edge And Track (464.645mil,725.416mil)(740.416mil,449.645mil) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 5mil) Between Board Edge And Track (480mil,60mil)(480mil,141.67mil) on Bottom Layer 1 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 5mil) Between Board Edge And Track (484.192mil,165.808mil)(535mil,115mil) on Bottom Layer 1 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 5mil) Between Board Edge And Track (50mil,130mil)(190mil,130mil) on PWR 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 5mil) Between Board Edge And Track (570.711mil,279.939mil)(740.416mil,449.645mil) on Bottom Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 5mil) Between Board Edge And Track (599.961mil,464.252mil)(599.961mil,495.748mil) on Top Overlay 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 5mil) Between Board Edge And Via (0mil,260mil) from Top Layer to Bottom Layer 1 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 5mil) Between Board Edge And Via (105mil,70mil) from Top Layer to Bottom Layer 1 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 5mil) Between Board Edge And Via (185mil,25mil) from Top Layer to Bottom Layer 1 
+   Violation between Board Outline Clearance(Outline Edge): (4.475mil < 5mil) Between Board Edge And Via (305.39mil,586.667mil) from Top Layer to Bottom Layer 1 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 5mil) Between Board Edge And Via (330mil,0mil) from Top Layer to Bottom Layer 1 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 5mil) Between Board Edge And Via (410mil,20mil) from Top Layer to Bottom Layer 1 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 5mil) Between Board Edge And Via (480mil,60mil) from Top Layer to Bottom Layer 1 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 5mil) Between Board Edge And Via (50mil,130mil) from Top Layer to Bottom Layer 1 
+   Violation between Board Outline Clearance(Outline Edge): (Collision < 5mil) Between Board Edge And Via (535mil,115mil) from Top Layer to Bottom Layer 1 
+   Violation between Board Outline Clearance(Outline Edge): (4.673mil < 5mil) Between Board Edge And Via (582.5mil,250mil) from Top Layer to Bottom Layer 1 
+Rule Violations :39
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 255
+Waived Violations : 0
+Time Elapsed        : 00:00:02
