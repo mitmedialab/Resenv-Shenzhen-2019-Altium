@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=SPI1_SCK Pin=J1-5
-Removed Pin From Net: NetName=IMU_EN Pin=J1-11
-Removed Pin From Net: NetName=IMU_INT Pin=J1-14
-Added Pin To Net: NetName=SPI1_SCK Pin=J1-4
-Added Pin To Net: NetName=IMU_INT Pin=J1-11
-Added Pin To Net: NetName=IMU_EN Pin=J1-14

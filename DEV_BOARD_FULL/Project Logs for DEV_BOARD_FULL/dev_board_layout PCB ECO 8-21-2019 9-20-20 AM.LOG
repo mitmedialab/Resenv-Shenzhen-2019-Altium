@@ -1,6 +1,0 @@
-Added Component: Designator=U1(QRE1113_DIP)
-Add component. Clean all parameters for all variants
-Added Pin To Net: NetName=BLINK_PWM Pin=U1-1
-Added Pin To Net: NetName=BLINK_CATHODE Pin=U1-2
-Added Pin To Net: NetName=GND Pin=U1-4
-Added Member To Class: ClassName=Sch_front Member=Component U1 QRE1113

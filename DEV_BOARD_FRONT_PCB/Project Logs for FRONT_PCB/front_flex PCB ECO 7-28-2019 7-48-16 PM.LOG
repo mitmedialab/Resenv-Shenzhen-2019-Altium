@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=LH_DIODE_ARRAY Pin=J1-10
-Removed Pin From Net: NetName=I2C_SCL Pin=J1-14
-Removed Pin From Net: NetName=LH_DIODE_ARRAY Pin=J2-9
-Removed Pin From Net: NetName=I2C_SCL Pin=J2-13
-Added Pin To Net: NetName=I2C_SCL Pin=J1-10
-Added Pin To Net: NetName=LH_DIODE_ARRAY Pin=J1-14
-Added Pin To Net: NetName=I2C_SCL Pin=J2-9
-Added Pin To Net: NetName=LH_DIODE_ARRAY Pin=J2-13
-Added Member To Class: ClassName=Sch_led Member=Component LED4 APFA3010SEKJ3ZGKQBKC

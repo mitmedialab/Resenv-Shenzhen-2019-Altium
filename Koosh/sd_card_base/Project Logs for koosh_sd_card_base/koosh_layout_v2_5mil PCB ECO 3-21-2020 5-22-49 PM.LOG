@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=R2-2
-Removed Member From Class: ClassName=koosh_sd_card_base Member=R2
-Added Pin To Net: NetName=GND Pin=AC1-17
-Added Member To Class: ClassName=koosh_sd_card_base Member=Component C7 4.7µF
-Added Member To Class: ClassName=koosh_sd_card_base Member=Component R3 1M

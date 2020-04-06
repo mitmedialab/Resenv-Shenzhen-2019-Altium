@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=3.3V Pin=J8-13
-Added Pin To Net: NetName=I2C1_SCL Pin=J8-5
-Added Pin To Net: NetName=3.3V_PWR Pin=J8-13
-Added Pin To Net: NetName=I2C1_SDA Pin=J8-25
-Added Member To Class: ClassName=Sch_front Member=Component R1 100k

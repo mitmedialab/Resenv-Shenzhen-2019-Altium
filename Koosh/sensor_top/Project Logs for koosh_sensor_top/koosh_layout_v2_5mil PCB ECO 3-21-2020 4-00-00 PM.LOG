@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=TP_INT Pin=*-5
-Removed Pin From Net: NetName=I2C1_SCL Pin=*-6
-Removed Pin From Net: NetName=MIC_SIG Pin=*-7
-Removed Pin From Net: NetName=GND Pin=*-8
-Removed Pin From Net: NetName=I2C1_SDA Pin=*-9
-Added Pin To Net: NetName=GND Pin=*-5
-Added Pin To Net: NetName=MIC_SIG Pin=*-6

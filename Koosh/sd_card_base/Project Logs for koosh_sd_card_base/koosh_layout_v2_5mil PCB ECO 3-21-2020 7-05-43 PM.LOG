@@ -1,2 +1,0 @@
-Added Component: Designator=*?(KooshTopBoardConn)
-Added Member To Class: ClassName=koosh_sd_card_base Member=Component *? KooshTopSensorConn

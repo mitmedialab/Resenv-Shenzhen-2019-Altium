@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=LIGHT_INT Pin=J1-10
-Removed Pin From Net: NetName=IMU_EN Pin=J1-14
-Added Pin To Net: NetName=IMU_EN Pin=J1-10
-Added Pin To Net: NetName=LIGHT_INT Pin=J1-14

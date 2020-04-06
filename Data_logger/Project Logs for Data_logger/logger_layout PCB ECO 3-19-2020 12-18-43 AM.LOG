@@ -1,5 +1,0 @@
-Added Pin To Net: NetName=3.3V Pin=FB1-2
-Added Pin To Net: NetName=3.3V Pin=R27-2
-Added Pin To Net: NetName=3.3V Pin=R28-2
-Added Member To Class: ClassName=logger_sensors Member=Component P2 P70-5000045R
-Added Member To Class: ClassName=logger_sensors Member=Component R8 1k

@@ -1,3 +1,0 @@
-Added Component: Designator=*(KooshTopBoardConn)
-Added Member To Class: ClassName=koosh_sensor_top Member=Component * KooshTopSensorConn
-Added Member To Class: ClassName=koosh_sensor_top Member=Component R3 1M
