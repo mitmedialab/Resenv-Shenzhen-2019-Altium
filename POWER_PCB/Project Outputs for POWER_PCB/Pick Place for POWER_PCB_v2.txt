@@ -1,0 +1,81 @@
+Altium Designer Pick and Place Locations
+D:\OneDrive - Massachusetts Institute of Technology\altium\altium_designs\ProjectAttendance\POWER_PCB\Project Outputs for POWER_PCB\Pick Place for POWER_PCB_v2.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       26/03/20
+Time:       21:28
+Revision:   ce055171f8fac3b2fb18e4ec2ab4afd4bb32a0b9
+Variant:    No variations
+Units used: mil
+
+Designator Comment             Layer       Footprint              Center-X(mil) Center-Y(mil) Rotation Description                       
+AC1        BNO080              TopLayer    BNO080                 1649.862      206.137       180      Accelerometer                     
+LED1       SML-E12M8WT86       BottomLayer LEDC1608X46N           1630.472      200.000       360      LED                               
+Q2         RE1C002ZPTL         BottomLayer SOTFL50P160X85-3N      1210.000      80.000        270      "MOSFET (P-Channel)"              
+D2         1N4148X-TP          BottomLayer SODFL1608X70N          1365.000      220.000       360      Diode                             
+R8         1M                  BottomLayer SMD-0402-RES           1160.000      65.000        360      "RES SMD 1M OHM 5% 1/10W 0402"    
+R15        4.7k                BottomLayer SMD-0402-RES           1475.000      230.000       180      "RES SMD 4.7K OHM 5% 1/10W 0402"  
+R18        4.7k                TopLayer    SMD-0402-RES           1165.000      30.000        270      "RES SMD 4.7K OHM 5% 1/10W 0402"  
+R17        100k                BottomLayer SMD-0402-RES           1360.000      100.000       90       "RES SMD 100K OHM 5% 1/10W 0402"  
+R20        100k                TopLayer    SMD-0402-RES           1425.000      130.000       270      "RES SMD 100K OHM 5% 1/10W 0402"  
+R19        100k                BottomLayer SMD-0402-RES           1345.000      255.000       270      "RES SMD 100K OHM 5% 1/10W 0402"  
+R21        100k                BottomLayer SMD-0402-RES           1295.000      195.000       180      "RES SMD 100K OHM 5% 1/10W 0402"  
+R23        51.1k               BottomLayer SMD-0402-RES           1350.000      190.000       270      "RES SMD 51.1K OHM 5% 1/10W 0402" 
+R22        100k                TopLayer    SMD-0402-RES           1425.000      95.000        270      "RES SMD 100K OHM 5% 1/10W 0402"  
+IC6        TLV9062IDSGT        BottomLayer SON50P200X200X80-9N    1466.339      150.472       360      "Integrated Circuit"              
+C29        4.7µF               BottomLayer SMD-0402C              1440.000      90.000        270      "CAP CER 4.7UF 4V X5R 0402"       
+C28        4.7µF               TopLayer    SMD-0402C              1085.000      30.000        90       "CAP CER 4.7UF 4V X5R 0402"       
+C30        10µF                BottomLayer SMD-0402C              1275.000      270.000       360      "CAP CER 10UF 6.3V X5R 0402"      
+C27        1µF                 TopLayer    SMD-0402-RES           1310.000      180.000       90       "CAP CER 1UF 10V X7S 0402"        
+R16        10k                 BottomLayer SMD-0402-RES           1605.000      120.000       270      "RES SMD 10K OHM 5% 1/10W 0402"   
+MK1        SPV1840LR5H-B       TopLayer    *MIC_SPV1840LR5H-B     1311.219      123.630       90       "Mic Mems Analog"                 
+IC5        MCP1700T-3302E_MAY  TopLayer    SON65P200X200X90-7N    60.000        181.693       90       "Integrated Circuit"              
+C14        1µF                 TopLayer    SMD-0402C              120.000       200.000       0        "CAP CER 1UF 10V X7S 0402"        
+C3         1µF                 TopLayer    SMD-0402C              70.000        80.000        180      "CAP CER 1UF 10V X7S 0402"        
+R14        100k                TopLayer    SMD-0402-RES           1025.000      265.000       135      "RES SMD 100K OHM 5% 1/10W 0402"  
+R9         10k                 TopLayer    SMD-0402-RES           1530.000      90.000        270      "RES SMD 10K OHM 5% 1/10W 0402"                          
+PS1        TPS2115ADRBR        TopLayer    SON65P300X300X100-9N-D 527.087       247.795       0        "Power Supply"                    
+C26        1µF                 TopLayer    SMD-0402C              825.000       200.000       90       "CAP CER 1UF 10V X7S 0402"        
+Y3         XRCGB32M000F1H01R0  BottomLayer XRCGB32M000F1H01R0     690.000       220.000       270      "Crystal or Oscillator"           
+R13        10k                 BottomLayer SMD-0402-RES           820.000       25.000        270      "RES SMD 10K OHM 5% 1/10W 0402"   
+R12        10k                 TopLayer    SMD-0402-RES           820.000       75.000        270      "RES SMD 10K OHM 5% 1/10W 0402"   
+R11        10k                 TopLayer    SMD-0402-RES           1010.000      40.000        180      "RES SMD 10K OHM 5% 1/10W 0402"   
+J2         TC2030-CTX-NL       TopLayer    TC2030MCPNL10          1335.000      252.913       360      Connector                         
+C22        0.10µF              TopLayer    SMD-0402C              915.000       75.000        90       "CAP CER 0.1UF 16V X7R 0402"      
+C21        0.10µF              BottomLayer SMD-0402C              760.000       70.000        360      "CAP CER 0.1UF 16V X7R 0402"      
+C24        0.10µF              BottomLayer SMD-0402C              1070.000      240.000       180      "CAP CER 0.1UF 16V X7R 0402"      
+C23        4.7µF               BottomLayer SMD-0402C              1035.000      240.000       360      "CAP CER 4.7UF 4V X5R 0402"       
+C25        10000pF             TopLayer    SMD-0402C              825.000       235.000       270      "CAP CER 10000PF 50V X7R 0402"    
+IC4        STM32F301K6U6       BottomLayer QFN50P500X500X60-33N-D 893.543       166.102       0        "Integrated Circuit"              
+C6         4.7µF               BottomLayer SMD-0402C              1745.000      255.000       360      "CAP CER 4.7UF 4V X5R 0402"       
+S1         PCM12SMTR           TopLayer    PCM12SMTR_1            570.000       77.795        360      Switch                            
+D1         VBPW34FASR          BottomLayer VBPW34FASR             560.748       110.000       180      Diode                             
+C20        15pF                TopLayer    CAPC1005X55N           1495.000      305.000       180      "CAP CER 15PF 50V NP0 0402"       
+C19        15pF                TopLayer    CAPC1005X55N           1425.000      175.000       180      "CAP CER 15PF 50V NP0 0402"       
+C18        0.10µF              BottomLayer CAPC1005X55N           1745.000      130.000       270      "CAP CER 0.1UF 16V X7R 0402"      
+C17        0.10µF              BottomLayer CAPC1005X55N           1675.000      130.000       360      "CAP CER 0.1UF 16V X7R 0402"      
+C16        0.10µF              BottomLayer CAPC1005X55N           1675.000      160.000       360      "CAP CER 0.1UF 16V X7R 0402"      
+C15        6800pF              BottomLayer SMD-0402C              390.000       195.000       360      "CAP CER 6800PF 25V X7R 0402"     
+C10        10µF                BottomLayer SMD-0402C              65.000        295.000       90       "CAP CER 10UF 6.3V X5R 0402"      
+C9         10000pF             BottomLayer SMD-0402C              145.000       295.000       90       "CAP CER 10000PF 50V X7R 0402"    
+C8         10000pF             BottomLayer SMD-0402C              385.000       280.000       360      "CAP CER 10000PF 50V X7R 0402"    
+C11        10000pF             BottomLayer SMD-0402C              345.000       280.000       180      "CAP CER 10000PF 50V X7R 0402"    
+C12        10000pF             BottomLayer SMD-0402C              425.000       280.000       180      "CAP CER 10000PF 50V X7R 0402"    
+C13        1µF                 BottomLayer SMD-0402C              145.000       45.000        270      "CAP CER 1UF 10V X7S 0402"        
+Y2         FC-135_32.7680KA-A5 TopLayer    FC135327680KAAG0       1505.000      220.000       90       "Crystal or Oscillator"           
+U1         ZTP-135SR           TopLayer    ZTP-135SR              1122.047      162.500       180      "Undefined or Miscellaneous"      
+R10        0                   TopLayer    SMD-0402-RES           1748.000      270.000       360      "RES SMD 0K OHM 5% 1/10W 0402"    
+R5         17.4k               BottomLayer SMD-0402-RES           1505.000      270.000       360      "RES SMD 17.4K OHM 1% 1/10W 0402" 
+R4         110                 BottomLayer SMD-0402-RES           1720.000      190.472       270      "RES SMD 110 OHM 5% 1/10W 0402"   
+R2         1M                  TopLayer    SMD-0402-RES           660.000       260.000       90       "RES SMD 1M OHM 5% 1/10W 0402"    
+R3         750                 TopLayer    RESC1005X40N           415.000       255.000       270      "RES SMD 750 OHM 1% 1/10W 0402"   
+R7         160k                BottomLayer SMD-0402-RES           425.000       195.000       180      "RES SMD 160K OHM 5% 1/10W 0402"  
+R6         1k                  BottomLayer SMD-0402-RES           65.000        45.000        270      "RES SMD 1K OHM 5% 1/10W 0402"    
+J1         54722-0164          TopLayer    54722-0164             270.000       180.000       180      Connector                         
+IC2        MCP73831T-2ACI_MC   BottomLayer SON50P300X200X100-9N-D 1604.055      263.158       180      "Integrated Circuit"              
+IC3        LMP91051MT_NOPB     BottomLayer SOP65P640X120-14N      169.331       168.228       180      "Integrated Circuit"              
+C1         0.10µF              TopLayer    SMD-0402C              660.000       290.000       90       "CAP CER 0.1UF 16V X7R 0402"      
+C2         0.10µF              TopLayer    SMD-0402C              660.000       225.000       90       "CAP CER 0.1UF 16V X7R 0402"      
+C7         4.7µF               BottomLayer SMD-0402C              1710.000      255.000       0        "CAP CER 4.7UF 4V X5R 0402"       

@@ -2,42 +2,19 @@
 FileName = POWER_PCB_v2.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Solder
-      File : POWER_PCB_v2.GBS
+Generating : Bottom Overlay
+      File : POWER_PCB_v2.GBO
 
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Bottom Overlay
 
 
 Used DCodes :
-    D38
-    D39
-    D50
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
+    D10
+    D11
+    D12
+    D13
+    D15
+    D16
     D107
 *************************************************************
 
@@ -53,7 +30,7 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D20
+    D22
     D37
     D38
     D39
@@ -81,7 +58,6 @@ Used DCodes :
     D61
     D62
     D63
-    D64
 *************************************************************
 
 *************************************************************
@@ -96,7 +72,7 @@ Generating : Top Paste
 
 
 Used DCodes :
-    D10
+    D11
     D17
     D18
     D19
@@ -120,20 +96,65 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : POWER_PCB_v2.GTO
+Generating : Mechanical BS
+      File : POWER_PCB_v2.GM2
 
-    Adding Layer      : Top Overlay
+    Adding Layer      : Mechanical BS
 
 
 Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
+    D108
+*************************************************************
+
+*************************************************************
+Generating : Layer 2
+      File : POWER_PCB_v2.G2
+
+    Adding Layer      : Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
     D15
     D16
+    D66
+    D69
+    D71
+    D72
+    D73
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : POWER_PCB_v2.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+    D32
+    D72
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
 *************************************************************
 
 *************************************************************
@@ -150,11 +171,12 @@ Used DCodes :
     D14
     D15
     D16
-    D17
-    D18
-    D30
+    D19
+    D20
+    D32
     D63
-    D65
+    D64
+    D66
     D67
     D68
     D69
@@ -180,26 +202,23 @@ Used DCodes :
     D89
     D90
     D91
-    D92
 *************************************************************
 
 *************************************************************
-Generating : Layer 2
-      File : POWER_PCB_v2.G2
+Generating : Top Overlay
+      File : POWER_PCB_v2.GTO
 
-    Adding Layer      : Layer 2
-
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Top Overlay
 
 
 Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
     D15
     D16
-    D67
-    D70
-    D72
-    D73
-    D74
 *************************************************************
 
 *************************************************************
@@ -213,12 +232,11 @@ Generating : Layer 1
 
 Used DCodes :
     D14
-    D67
-    D71
+    D66
+    D70
+    D72
     D73
-    D74
     D75
-    D76
 *************************************************************
 
 *************************************************************
@@ -231,7 +249,7 @@ Generating : Top Layer
 
 
 Used DCodes :
-    D10
+    D11
     D12
     D15
     D16
@@ -256,6 +274,7 @@ Used DCodes :
     D35
     D36
     D63
+    D64
     D65
     D66
     D67
@@ -266,43 +285,13 @@ Used DCodes :
     D72
     D73
     D74
-    D75
 *************************************************************
 
 *************************************************************
-Generating : Mechanical BS
-      File : POWER_PCB_v2.GM2
+Generating : Bottom Solder
+      File : POWER_PCB_v2.GBS
 
-    Adding Layer      : Mechanical BS
-
-
-Used DCodes :
-    D109
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : POWER_PCB_v2.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D108
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : POWER_PCB_v2.GBP
-
-    Adding Layer      : Bottom Paste
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Bottom Layer
 
@@ -310,23 +299,30 @@ Generating : Bottom Paste
 
 
 Used DCodes :
-    D17
-    D18
-    D30
-    D75
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
+    D40
+    D41
+    D52
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
 *************************************************************
 
