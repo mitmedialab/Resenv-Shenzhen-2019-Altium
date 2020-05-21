@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=PA4 Pin=P?-2
-Removed Pin From Net: NetName=PA2 Pin=P?-3
-Added Pin To Net: NetName=PA2 Pin=P?-2
-Added Pin To Net: NetName=PA4 Pin=P?-3
-Added Member To Class: ClassName=Sch_pwr Member=Component C? 1µF

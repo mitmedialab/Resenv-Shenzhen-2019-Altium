@@ -1,7 +1,0 @@
-Added Pin To Net: NetName=LED_1_GREEN Pin=IC1-29
-Change Net Name : Old Net Name=VSSSMPS New Net Name=GND
-Added Room: Name=Sheet1_headers
-Added Room: Name=Sheet1_mcu
-Added Room: Name=Sheet1_pwr
-Added Room: Name=Sheet1_sensors
-Added Room: Name=Sheet1_ui

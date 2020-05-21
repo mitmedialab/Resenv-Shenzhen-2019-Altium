@@ -1,9 +1,0 @@
-Remove Pin=IC2-10 From Net=BLINK_PWM
-Remove Pin=IC2-12 From Net=TP_SS
-Remove Pin=IC2-13 From Net=LH_SIG
-Remove Pin=IC2-14 From Net=IMU_INT2
-Remove Pin=IC2-18 From Net=IMU_INT1
-Remove Pin=IC2-28 From Net=BLINK_SIG
-Add Pin To Net: Pin=IC2-10 Old Net=BLINK_PWM New Net=I2C1_SMBA
-Change Pin Designator/Name:  Old Designator=IC2-36 Old Name=PA10 New Designator =PB0 New Name=28
-Change Pin Designator/Name:  Old Designator=IC2-42 Old Name=PA15 New Designator =PA9 New Name=18
