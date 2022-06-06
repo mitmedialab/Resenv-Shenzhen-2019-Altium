@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: front_flex.GBR   9/3/2019  6:12:34 PM
+Gerber File Extension Report For: front_flex.GBR   4/16/2021  1:08:21 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -9,8 +9,8 @@ Layer Extension     Layer Description
 .GTO                Top Overlay                             
 .GTP                Top Paste                               
 .GTP1               Top Paste                               
-.GTS1               Top Solder                              
 .GTS                Top Solder                              
+.GTS1               Top Solder                              
 .GTL                Layer 1 (Top Layer)                     
 .G1                 Layer 2 (PWR)                           
 .G2                 Layer 3 (GND)                           

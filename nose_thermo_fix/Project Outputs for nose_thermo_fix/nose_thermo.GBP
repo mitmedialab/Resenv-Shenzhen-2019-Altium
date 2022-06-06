@@ -1,0 +1,27 @@
+G04*
+G04 #@! TF.GenerationSoftware,Altium Limited,Altium Designer,19.1.8 (144)*
+G04*
+G04 Layer_Color=128*
+%FSAX24Y24*%
+%MOIN*%
+G70*
+G01*
+G75*
+G04:AMPARAMS|DCode=18|XSize=55.1mil|YSize=78.7mil|CornerRadius=0mil|HoleSize=0mil|Usage=FLASHONLY|Rotation=235.000|XOffset=0mil|YOffset=0mil|HoleType=Round|Shape=Round|*
+%AMOVALD18*
+21,1,0.0236,0.0551,0.0000,0.0000,325.0*
+1,1,0.0551,-0.0097,0.0068*
+1,1,0.0551,0.0097,-0.0068*
+%
+%ADD18OVALD18*%
+
+D18*
+X043912Y064643D02*
+D03*
+X044273Y065159D02*
+D03*
+X044995Y066191D02*
+D03*
+X044634Y065675D02*
+D03*
+M02*

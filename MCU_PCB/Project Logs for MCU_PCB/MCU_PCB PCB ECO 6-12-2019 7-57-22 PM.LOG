@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=LED_1_RED Pin=IC2-30
+Removed Pin From Net: NetName=LED_1_BLUE Pin=IC2-36
+Removed Member From Class: ClassName=Sch_mcu Member=R10
+Added Pin To Net: NetName=LED_1_RED Pin=IC2-29
+Added Pin To Net: NetName=LED_1_BLUE Pin=IC2-30
+Added Room: Name=Sch_external_connectors
+Added Room: Name=Sch_mcu
+Added Room: Name=Sch_pwr
+Added Room: Name=Sch_sensors

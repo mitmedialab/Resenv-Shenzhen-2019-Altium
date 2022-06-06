@@ -1,1 +1,5 @@
-Record=TopLevelDocument|FileName=Sch_external_connectors.SchDoc
+Record=TopLevelDocument|FileName=Sch_external_connectors.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Sch_external_connectors.SchDoc|FileName=Sch_mcu.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Sch_external_connectors.SchDoc|FileName=Sch_pwr.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Sch_external_connectors.SchDoc|FileName=Sch_sensors.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Sch_external_connectors.SchDoc|FileName=Sch_stackup_mcu_pcb.SchDoc|SheetNumber= 

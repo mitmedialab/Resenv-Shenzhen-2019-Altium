@@ -1,1 +1,3 @@
-Record=TopLevelDocument|FileName=Sch_MCU.SchDoc
+Record=TopLevelDocument|FileName=Sch_MCU.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Sch_MCU.SchDoc|FileName=Sch_pwr_sys.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Sch_MCU.SchDoc|FileName=sch_sensors.SchDoc|SheetNumber= 

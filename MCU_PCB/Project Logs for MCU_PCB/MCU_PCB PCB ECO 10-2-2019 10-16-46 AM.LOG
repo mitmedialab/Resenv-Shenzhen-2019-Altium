@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=LH_SIG Pin=IC2-9
+Added Pin To Net: NetName=LH_SIG Pin=IC2-10
+Added Pin To Net: NetName=NetIC2_9 Pin=IC2-9
+Added Pin To Net: NetName=NetIC2_9 Pin=TP24-1
+Added Net: Name=NetIC2_9

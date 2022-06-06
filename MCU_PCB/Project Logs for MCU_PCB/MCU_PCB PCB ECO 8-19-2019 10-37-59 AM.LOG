@@ -1,0 +1,17 @@
+Removed Member From Class: ClassName=Sch_sensors Member=TP2
+Added Component: Designator=TP23(TestPoint_0.4mm)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP24(TestPoint_0.4mm)
+Add component. Clean all parameters for all variants
+Added Component: Designator=TP25(TestPoint_0.4mm)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetIC2_5 Pin=IC2-5
+Added Pin To Net: NetName=NetIC2_5 Pin=TP23-1
+Added Net: Name=NetIC2_5
+Added Pin To Net: NetName=NetIC2_10 Pin=IC2-10
+Added Pin To Net: NetName=NetIC2_10 Pin=TP24-1
+Added Net: Name=NetIC2_10
+Added Member To Class: ClassName=Sch_sensors Member=Component TP22 TestPoint
+Added Member To Class: ClassName=Sch_mcu Member=Component TP23 TestPoint
+Added Member To Class: ClassName=Sch_mcu Member=Component TP24 TestPoint
+Added Member To Class: ClassName=Sch_sensors Member=Component TP25 TestPoint

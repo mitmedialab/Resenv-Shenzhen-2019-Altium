@@ -1,0 +1,32 @@
+Removed Member From Class: ClassName=Sch_pwr_sys Member=J1
+Removed Member From Class: ClassName=sch_sensors Member=Q2
+Removed Member From Class: ClassName=sch_sensors Member=R8
+Removed Member From Class: ClassName=Sch_pwr_sys Member=TP5
+Removed Member From Class: ClassName=Sch_pwr_sys Member=TP6
+Removed Member From Class: ClassName=Sch_pwr_sys Member=TP7
+Removed Member From Class: ClassName=Sch_pwr_sys Member=TP8
+Removed Member From Class: ClassName=Sch_pwr_sys Member=TP9
+Removed Member From Class: ClassName=Sch_pwr_sys Member=TP10
+Added Component: Designator=MK1(*MIC_SPV1840LR5H-B)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Knowles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SPV1840LR5H-B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Knowles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SPV1840LR5H-B/Knowles/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V_MIC Pin=MK1-1
+Added Pin To Net: NetName=NetC28_1 Pin=MK1-2
+Added Member To Class: ClassName=sch_sensors Member=Component AC1 BNO080
+Added Member To Class: ClassName=Sch_pwr_sys Member=Component CN1 XNT-005MF-05A
+Added Member To Class: ClassName=Sch_MCU Member=Component J1 54722-0164
+Added Member To Class: ClassName=sch_sensors Member=Component MK1 SPV1840LR5H-B
+Added Member To Class: ClassName=Sch_pwr_sys Member=Component P1 Header 2
+Added Member To Class: ClassName=Sch_pwr_sys Member=Component Q2 RE1C002ZPTL
+Added Member To Class: ClassName=Sch_pwr_sys Member=Component R8 1M
+Added Member To Class: ClassName=Sch_MCU Member=Component TP5 TestPoint
+Added Member To Class: ClassName=Sch_MCU Member=Component TP6 TestPoint
+Added Member To Class: ClassName=Sch_MCU Member=Component TP7 TestPoint
+Added Member To Class: ClassName=Sch_MCU Member=Component TP8 TestPoint
+Added Member To Class: ClassName=Sch_MCU Member=Component TP9 TestPoint
+Added Member To Class: ClassName=Sch_MCU Member=Component TP10 TestPoint

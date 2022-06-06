@@ -1,1 +1,3 @@
-Record=TopLevelDocument|FileName=Sch_connectors.SchDoc
+Record=TopLevelDocument|FileName=Sch_connectors.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Sch_connectors.SchDoc|FileName=Sch_front.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Sch_connectors.SchDoc|FileName=Sch_led.SchDoc|SheetNumber= 

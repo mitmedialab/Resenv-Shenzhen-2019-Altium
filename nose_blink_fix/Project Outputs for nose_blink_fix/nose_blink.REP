@@ -1,0 +1,148 @@
+*************************************************************
+FileName = nose_blink.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Overlay
+      File : nose_blink.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D12
+    D23
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : nose_blink.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Layer 1 (Top Layer)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Layer 4 (Bottom Layer)
+      File : nose_blink.GBL
+
+    Adding Layer      : Layer 4 (Bottom Layer)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : nose_blink.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : nose_blink.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Layer 4 (Bottom Layer)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D21
+    D22
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : nose_blink.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Layer 1 (Top Layer)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Layer 1 (Top Layer)
+      File : nose_blink.GTL
+
+    Adding Layer      : Layer 1 (Top Layer)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Stiffener
+      File : nose_blink.GM3
+
+    Adding Layer      : Stiffener
+
+
+Used DCodes :
+    D24
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : nose_blink.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Layer 4 (Bottom Layer)
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : nose_blink.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+*************************************************************
+

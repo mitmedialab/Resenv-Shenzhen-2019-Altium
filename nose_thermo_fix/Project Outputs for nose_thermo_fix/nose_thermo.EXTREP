@@ -1,0 +1,21 @@
+------------------------------------------------------------------------------------------
+Gerber File Extension Report For: nose_thermo.GBR   1/14/2020  12:11:04 PM
+------------------------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------------------------
+Layer Extension     Layer Description                      
+------------------------------------------------------------------------------------------
+.GTO                Top Overlay                             
+.GTP                Top Paste                               
+.GTP1               Top Paste                               
+.GTS                Top Solder                              
+.GTS1               Top Solder                              
+.GTL                Layer 1 (Top Layer)                     
+.GBL                Layer 4 (Bottom Layer)                  
+.GBS                Bottom Solder                           
+.GBP                Bottom Paste                            
+.GBO                Bottom Overlay                          
+.GM3                Stiffener                               
+.GKO                Keep-Out Layer                          
+------------------------------------------------------------------------------------------

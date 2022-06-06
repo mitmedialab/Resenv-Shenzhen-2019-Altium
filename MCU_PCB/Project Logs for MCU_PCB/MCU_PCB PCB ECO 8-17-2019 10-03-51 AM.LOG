@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=VDDA/VREF Pin=FB1-1
+Removed Pin From Net: NetName=3.3V_MCU Pin=FB1-2
+Removed Member From Class: ClassName=Sch_mcu Member=FB1
+Added Component: Designator=FB?(BEADC1608X95N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c31e.ashx?la=en-gb"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.95mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "BLM18KG601SZ1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "81-BLM18KG601SZ1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=81-BLM18KG601SZ1D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDDA/VREF Pin=FB?-1
+Added Pin To Net: NetName=3.3V_MCU Pin=FB?-2
+Added Member To Class: ClassName=Sch_mcu Member=Component FB? BLM18KG601SZ1D

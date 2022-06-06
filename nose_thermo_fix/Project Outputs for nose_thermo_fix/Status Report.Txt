@@ -1,0 +1,24 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [nose_thermo_fix.PrjPcb]
+   Generated File[nose_thermo.GTO]
+   Generated File[nose_thermo.GTP]
+   Generated File[nose_thermo.GTP1]
+   Generated File[nose_thermo.GTS]
+   Generated File[nose_thermo.GTS1]
+   Generated File[nose_thermo.GTL]
+   Generated File[nose_thermo.GBL]
+   Generated File[nose_thermo.GBS]
+   Generated File[nose_thermo.GBP]
+   Generated File[nose_thermo.GBO]
+   Generated File[nose_thermo.GM3]
+   Generated File[nose_thermo.GKO]
+   Generated File[nose_thermo.RUL]
+   Generated File[nose_thermo.EXTREP]
+   Generated File[nose_thermo.REP]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 12:11:04 PM On 1/14/2020

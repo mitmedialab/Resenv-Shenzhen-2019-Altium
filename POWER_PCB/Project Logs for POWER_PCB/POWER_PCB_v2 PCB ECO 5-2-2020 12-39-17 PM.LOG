@@ -1,0 +1,11 @@
+Added Component: Designator=MK1(*MIC_SPV1840LR5H-B)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Knowles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SPV1840LR5H-B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0805 Knowles"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SPV1840LR5H-B/Knowles/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3.3V_MIC Pin=MK1-1
+Added Pin To Net: NetName=NetC28_1 Pin=MK1-2
+Added Member To Class: ClassName=sch_sensors Member=Component MK1 SPV1840LR5H-B
